@@ -1607,7 +1607,7 @@
             "last_commit": "2026-07-02T06:23:10Z",
             "owner": "npm",
             "repo": "node-semver",
-            "stars": 5456
+            "stars": 5457
           }
         },
         {
@@ -1771,7 +1771,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26927
+            "stars": 26932
           }
         },
         {
@@ -1785,7 +1785,7 @@
             "last_commit": "2026-08-08T12:06:10Z",
             "owner": "uuidjs",
             "repo": "uuid",
-            "stars": 15313
+            "stars": 15314
           }
         },
         {
@@ -1875,7 +1875,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66507
+            "stars": 66519
           }
         },
         {
@@ -1912,7 +1912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:41:16.802Z",
+    "last_updated": "2026-08-14T08:35:42.685Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
     "enhanced_repository": "enhansome/enhansome-micro-npm-packages",
