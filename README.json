@@ -1193,7 +1193,7 @@
             "last_commit": "2018-10-14T01:23:58Z",
             "owner": "dominictarr",
             "repo": "JSONStream",
-            "stars": 1931
+            "stars": 1930
           }
         },
         {
@@ -1204,7 +1204,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T04:07:08Z",
+            "last_commit": "2026-08-17T18:13:26Z",
             "owner": "rvagg",
             "repo": "through2",
             "stars": 1908
@@ -1655,7 +1655,7 @@
             "last_commit": "2026-06-22T18:02:28Z",
             "owner": "isaacs",
             "repo": "node-glob",
-            "stars": 8714
+            "stars": 8713
           }
         },
         {
@@ -1771,7 +1771,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26934
+            "stars": 26935
           }
         },
         {
@@ -1875,7 +1875,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66539
+            "stars": 66541
           }
         },
         {
@@ -1889,7 +1889,7 @@
             "last_commit": "2026-04-20T12:11:28Z",
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4731
+            "stars": 4730
           }
         }
       ],
@@ -1912,7 +1912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:58:45.582Z",
+    "last_updated": "2026-08-18T07:50:22.357Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
     "enhanced_repository": "enhansome/enhansome-micro-npm-packages",
