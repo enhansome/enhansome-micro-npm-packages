@@ -1985,7 +1985,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66556
+            "stars": 66558
           }
         },
         {
@@ -2008,8 +2008,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:50:38.314Z",
+    "last_updated": "2026-08-19T12:39:10.198Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
+    "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
     "enhanced_repository": "enhansome/enhansome-micro-npm-packages",
     "enhanced_repository_description": null,
