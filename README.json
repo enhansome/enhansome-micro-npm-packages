@@ -1504,7 +1504,7 @@
                 "last_commit": "2026-05-15T19:38:06Z",
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5848
+                "stars": 5849
               }
             },
             {
@@ -1869,7 +1869,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26938
+                "stars": 26941
               }
             },
             {
@@ -1985,7 +1985,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66558
+            "stars": 66570
           }
         },
         {
@@ -2000,7 +2000,7 @@
             "last_commit": "2026-04-20T12:11:28Z",
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4730
+            "stars": 4732
           }
         }
       ],
@@ -2008,7 +2008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:39:10.198Z",
+    "last_updated": "2026-08-20T07:53:29.606Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
