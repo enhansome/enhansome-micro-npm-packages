@@ -652,7 +652,7 @@
                 "last_commit": "2020-11-24T06:02:18Z",
                 "owner": "jonschlinkert",
                 "repo": "time-stamp",
-                "stars": 110
+                "stars": 109
               }
             },
             {
@@ -904,21 +904,6 @@
             },
             {
               "node_type": "item",
-              "title": "just-pluck",
-              "description": "Pluck without the madness.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 20976659,
-                "language": "JavaScript",
-                "last_commit": "2016-01-23T22:18:57Z",
-                "owner": "jarofghosts",
-                "repo": "just-pluck",
-                "stars": 11
-              }
-            },
-            {
-              "node_type": "item",
               "title": "is-empty-object",
               "description": "Check if an object is empty.",
               "children": [],
@@ -929,6 +914,21 @@
                 "last_commit": "2018-05-24T18:04:15Z",
                 "owner": "gummesson",
                 "repo": "is-empty-object",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "just-pluck",
+              "description": "Pluck without the madness.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20976659,
+                "language": "JavaScript",
+                "last_commit": "2016-01-23T22:18:57Z",
+                "owner": "jarofghosts",
+                "repo": "just-pluck",
                 "stars": 11
               }
             },
@@ -1280,7 +1280,7 @@
                 "last_commit": "2026-08-18T10:28:05Z",
                 "owner": "rvagg",
                 "repo": "through2",
-                "stars": 1908
+                "stars": 1907
               }
             },
             {
@@ -1504,7 +1504,7 @@
                 "last_commit": "2026-05-15T19:38:06Z",
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5849
+                "stars": 5850
               }
             },
             {
@@ -1698,7 +1698,7 @@
                 "last_commit": "2026-07-02T06:23:10Z",
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5458
+                "stars": 5460
               }
             },
             {
@@ -1747,10 +1747,10 @@
                 "archived": false,
                 "id": 357681,
                 "language": "TypeScript",
-                "last_commit": "2026-06-22T18:02:28Z",
+                "last_commit": "2026-08-20T17:51:52Z",
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8713
+                "stars": 8714
               }
             },
             {
@@ -1765,7 +1765,7 @@
                 "last_commit": "2026-07-06T07:59:52Z",
                 "owner": "steambap",
                 "repo": "png-to-ico",
-                "stars": 179
+                "stars": 180
               }
             },
             {
@@ -1869,7 +1869,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26941
+                "stars": 26943
               }
             },
             {
@@ -1884,7 +1884,7 @@
                 "last_commit": "2026-08-18T18:19:21Z",
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15319
+                "stars": 15320
               }
             },
             {
@@ -1985,7 +1985,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66570
+            "stars": 66582
           }
         },
         {
@@ -2000,7 +2000,7 @@
             "last_commit": "2026-04-20T12:11:28Z",
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4732
+            "stars": 4734
           }
         }
       ],
@@ -2008,7 +2008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:53:29.606Z",
+    "last_updated": "2026-08-21T07:54:05.713Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
