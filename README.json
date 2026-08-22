@@ -592,7 +592,7 @@
                 "last_commit": "2026-06-30T01:08:09Z",
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5370
+                "stars": 5371
               }
             },
             {
@@ -1168,7 +1168,7 @@
                 "last_commit": "2019-04-18T23:39:16Z",
                 "owner": "i-voted-for-trump",
                 "repo": "is-odd",
-                "stars": 360
+                "stars": 361
               }
             },
             {
@@ -1869,7 +1869,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26943
+                "stars": 26942
               }
             },
             {
@@ -1884,7 +1884,7 @@
                 "last_commit": "2026-08-18T18:19:21Z",
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15320
+                "stars": 15322
               }
             },
             {
@@ -1985,7 +1985,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66582
+            "stars": 66589
           }
         },
         {
@@ -2008,7 +2008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:54:05.713Z",
+    "last_updated": "2026-08-22T07:41:54.292Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
