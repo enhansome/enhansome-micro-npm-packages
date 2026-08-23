@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,754 | 🐛 105 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,061 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ## Articles
 
@@ -22,8 +22,8 @@
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) ⭐ 117 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-05 - Efficiently remove an element from an unordered array without doing a splice.
 * [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 73 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 - Fast cartesian product.
 * [group-array](https://github.com/doowb/group-array) ⭐ 66 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-12 - Group array of objects into lists.
-* [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 7 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
-* [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 5 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
+* [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 6 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
+* [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
 * [filled-array](https://github.com/sindresorhus/filled-array) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-08 - Returns an array filled with the specified input
 * [array-last](https://github.com/jonschlinkert/array-last) ⭐ 33 | 🐛 9 | 🌐 JavaScript | 📅 2021-12-27 - Return the last element in an array.
 * [is-sorted](https://github.com/dcousens/is-sorted) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2024-01-24 - A small module to check if an Array is sorted.
@@ -31,7 +31,7 @@
 * [dedupe](https://github.com/seriousManual/dedupe) ⭐ 24 | 🐛 3 | 🌐 TypeScript | 📅 2024-05-02 - Remove duplicates from an array.
 * [in-array](https://github.com/jonschlinkert/in-array) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2016-03-27 - Return true if any of passed values exists in array - faster than using indexOf.
 * [array.chunk](https://github.com/zhiyelee/array.chunk) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-11 - Split array/TypedArray to chunks of given size.
-* [array-first](https://github.com/jonschlinkert/array-first) ⭐ 11 | 🐛 7 | 🌐 JavaScript | 📅 2021-02-13 - Get the first element or first n elements of an array.
+* [array-first](https://github.com/jonschlinkert/array-first) ⭐ 11 | 🐛 6 | 🌐 JavaScript | 📅 2021-02-13 - Get the first element or first n elements of an array.
 * [array-swap](https://github.com/michaelzoidl/swap-array) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-06 - Swap position of two items in an array.
 * [mirrarray](https://github.com/johnwquarles/mirrarray) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-08 - Creates a keymirror object from an array of valid keys.
 * [map-array](https://github.com/parro-it/map-array) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2020-06-03 - Map object keys and values into an array.
@@ -84,7 +84,7 @@
 * [object-values](https://github.com/sindresorhus/object-values) ⚠️ Archived - Get the values of an object.
 * [has-value](https://github.com/jonschlinkert/has-value) ⭐ 26 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-03 - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
 * [flatten-obj](https://github.com/watson/flatten-obj) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-27 - Converts an object literal with deeply nested nodes to a simple key/value object.
-* [is-empty-object](https://github.com/gummesson/is-empty-object) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2018-05-24 - Check if an object is empty.
+* [is-empty-object](https://github.com/gummesson/is-empty-object) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2018-05-24 - Check if an object is empty.
 * [just-pluck](https://github.com/jarofghosts/just-pluck) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-23 - Pluck without the madness.
 * [zipmap](https://github.com/landau/zipmap) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-15 - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
 * [flatkeys](https://github.com/ricardobeat/flatkeys) ⭐ 3 | 🐛 0 | 🌐 CoffeeScript | 📅 2013-07-11 - Flatten object key hierarchies into a list of strings using a custom separator.
@@ -143,7 +143,7 @@
 ### File System
 
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,850 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
-* [tmp](https://github.com/raszi/node-tmp) ⭐ 776 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
+* [tmp](https://github.com/raszi/node-tmp) ⭐ 775 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
 * [file-size](https://github.com/Nijikokun/file-size) ⭐ 232 | 🐛 1 | 🌐 JavaScript | 📅 2020-01-22 - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) ⭐ 170 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-12 - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 * [du](https://github.com/rvagg/node-du) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2023-02-13 - A simple JavaScript implementation of du -sb.
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,942 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,322 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,939 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,320 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,355 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,589 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,596 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,734 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
