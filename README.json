@@ -15,7 +15,7 @@
             "last_commit": "2018-03-30T15:58:34Z",
             "owner": "mattdesl",
             "repo": "module-best-practices",
-            "stars": 1542
+            "stars": 1543
           }
         },
         {
@@ -315,7 +315,7 @@
                 "last_commit": "2026-02-26T13:51:11Z",
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 499
+                "stars": 500
               }
             },
             {
@@ -1504,7 +1504,7 @@
                 "last_commit": "2026-05-15T19:38:06Z",
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5850
+                "stars": 5851
               }
             },
             {
@@ -1698,7 +1698,7 @@
                 "last_commit": "2026-07-02T06:23:10Z",
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5460
+                "stars": 5459
               }
             },
             {
@@ -1985,7 +1985,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66596
+            "stars": 66611
           }
         },
         {
@@ -2008,7 +2008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:44:20.834Z",
+    "last_updated": "2026-08-24T08:03:06.308Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
