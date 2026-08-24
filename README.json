@@ -1494,6 +1494,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "quetie",
+              "description": "Just the cutest and tiniest queue/deque implementation!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380885864,
+                "language": "TypeScript",
+                "last_commit": "2025-09-01T20:39:07Z",
+                "owner": "TomerAberbach",
+                "repo": "quetie",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Structure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "rimraf",
               "description": "A deep deletion module for node (like rm -rf).",
               "children": [],
@@ -1859,6 +1881,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "is-generator",
+              "description": "Check whether a given value is a generator function.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16551690,
+                "language": "JavaScript",
+                "last_commit": "2023-12-07T08:51:49Z",
+                "owner": "blakeembrey",
+                "repo": "is-generator",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "nanoid",
               "description": "A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
               "children": [],
@@ -1966,6 +2010,28 @@
           "description": null,
           "node_type": "group",
           "title": "Other"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "npm-deprecated-check",
+              "description": "Check for deprecated packages and recommend alternative packages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566382879,
+                "language": "TypeScript",
+                "last_commit": "2026-05-27T01:20:06Z",
+                "owner": "KID-joker",
+                "repo": "npm-deprecated-check",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
       "title": "Modules"
@@ -1985,7 +2051,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66611
+            "stars": 66610
           }
         },
         {
@@ -2008,7 +2074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:03:06.308Z",
+    "last_updated": "2026-08-24T13:58:08.141Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
