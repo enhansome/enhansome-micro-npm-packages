@@ -1277,7 +1277,7 @@
                 "archived": false,
                 "id": 11808187,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T10:28:05Z",
+                "last_commit": "2026-08-25T01:54:10Z",
                 "owner": "rvagg",
                 "repo": "through2",
                 "stars": 1907
@@ -1913,7 +1913,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26939
+                "stars": 26940
               }
             },
             {
@@ -2051,7 +2051,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66610
+            "stars": 66621
           }
         },
         {
@@ -2066,7 +2066,7 @@
             "last_commit": "2026-04-20T12:11:28Z",
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4734
+            "stars": 4736
           }
         }
       ],
@@ -2074,7 +2074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:08.141Z",
+    "last_updated": "2026-08-25T05:47:55.492Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",

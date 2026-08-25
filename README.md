@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,508 | 🐛 106 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,691 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ## Articles
 
@@ -118,7 +118,7 @@
 ### Stream
 
 * [JSONStream](https://github.com/dominictarr/JSONStream) ⚠️ Archived - streaming JSON.parse and stringify
-* [through2](https://github.com/rvagg/through2) ⭐ 1,907 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-18 - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
+* [through2](https://github.com/rvagg/through2) ⭐ 1,907 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25 - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [pump](https://github.com/mafintosh/pump) ⭐ 918 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-28 - pipe streams together and close all of them if one of them closes.
 * [concat-stream](https://github.com/maxogden/concat-stream) ⭐ 575 | 🐛 19 | 🌐 JavaScript | 📅 2021-06-23 - writable stream that concatenates strings or data and calls a callback with the result.
 * [split](https://github.com/dominictarr/split) ⚠️ Archived - Break up a stream and reassemble it so that each line is a chunk.
@@ -186,7 +186,7 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,939 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,940 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,320 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,355 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
@@ -202,8 +202,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,610 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,734 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,621 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
