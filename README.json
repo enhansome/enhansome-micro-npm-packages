@@ -1183,7 +1183,7 @@
                 "last_commit": "2022-09-15T14:46:56Z",
                 "owner": "jonschlinkert",
                 "repo": "is-number",
-                "stars": 284
+                "stars": 283
               }
             },
             {
@@ -1913,7 +1913,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26940
+                "stars": 26943
               }
             },
             {
@@ -2066,7 +2066,7 @@
             "last_commit": "2026-04-20T12:11:28Z",
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4736
+            "stars": 4735
           }
         }
       ],
@@ -2074,7 +2074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:55:12.386Z",
+    "last_updated": "2026-08-26T07:56:12.041Z",
     "original_repository": "parro-it/awesome-micro-npm-packages",
     "original_repository_id": 51155797,
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
