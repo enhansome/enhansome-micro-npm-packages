@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,020 | 🐛 106 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 ## Articles
 
@@ -62,7 +62,7 @@
 
 * [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,371 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,068 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
-* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,215 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,215 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-06 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [twas](https://github.com/vutran/twas) ⭐ 251 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - Generate a relative time string (Example: "3 seconds ago")
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) ⭐ 109 | 🐛 8 | 🌐 JavaScript | 📅 2020-11-24 - Get a formatted timestamp.
 * [hirestime](https://github.com/seriousManual/hirestime) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2025-02-22 - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-14 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-26 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -142,7 +142,7 @@
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,851 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,852 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
 * [tmp](https://github.com/raszi/node-tmp) ⭐ 775 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
 * [file-size](https://github.com/Nijikokun/file-size) ⭐ 232 | 🐛 1 | 🌐 JavaScript | 📅 2020-01-22 - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) ⭐ 170 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-12 - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
@@ -186,7 +186,7 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,943 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,947 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,320 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,355 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,621 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,625 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,735 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

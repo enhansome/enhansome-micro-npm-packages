@@ -1464,7 +1464,7 @@
                 "archived": false,
                 "id": 41221963,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T23:38:58Z",
+                "last_commit": "2026-08-26T21:09:08Z",
                 "owner": "brummelte",
                 "repo": "sleep-promise",
                 "stars": 89
@@ -1526,7 +1526,7 @@
                 "last_commit": "2026-05-15T19:38:06Z",
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5851
+                "stars": 5852
               }
             },
             {
@@ -1913,7 +1913,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26943
+                "stars": 26947
               }
             },
             {
@@ -2051,7 +2051,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66621
+            "stars": 66625
           }
         },
         {
@@ -2074,9 +2074,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:56:12.041Z",
-    "original_repository": "parro-it/awesome-micro-npm-packages",
-    "original_repository_id": 51155797,
+    "last_updated": "2026-08-27T11:50:55.202Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 51155797,
+      "language": null,
+      "last_commit": "2023-12-18T13:25:02Z",
+      "owner": "parro-it",
+      "repo": "awesome-micro-npm-packages",
+      "stars": 4624
+    },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
     "enhanced_repository": "enhansome/enhansome-micro-npm-packages",
     "enhanced_repository_description": null,
