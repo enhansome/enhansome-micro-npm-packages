@@ -592,7 +592,7 @@
                 "last_commit": "2026-06-30T01:08:09Z",
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5371
+                "stars": 5372
               }
             },
             {
@@ -1913,7 +1913,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26947
+                "stars": 26950
               }
             },
             {
@@ -2051,7 +2051,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66625
+            "stars": 66631
           }
         },
         {
@@ -2074,7 +2074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:55.202Z",
+    "last_updated": "2026-08-27T18:15:55.516Z",
     "original_repository_info": {
       "archived": false,
       "id": 51155797,
