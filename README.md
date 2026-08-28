@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,462 | 🐛 105 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,811 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 ## Articles
 
@@ -41,7 +41,7 @@
 * [node-slug](https://github.com/dodo/node-slug) ⭐ 1,071 | 🐛 39 | 🌐 CoffeeScript | 📅 2019-04-05 - slugifies even utf-8 chars.
 * [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 500 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-26 - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) ⭐ 492 | 🐛 1 | 🌐 TypeScript | 📅 2022-10-04 - An implementation of PHP's strip\_tags in Node.js.
-* [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 244 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-25 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
+* [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 245 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-25 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
 * [pad-left](https://github.com/jonschlinkert/pad-left) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-17 - Left pad a string with zeros or a specified string.
 * [to-camel-case](https://github.com/ianstormtaylor/to-camel-case) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-20 - Convert a string to a camel case.
 * [slice.js](https://github.com/hustcc/slice.js) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-10 - Javascript library to enhance String.substring / Array.slice with python slice style.
@@ -62,7 +62,7 @@
 
 * [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,372 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,068 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
-* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,215 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-06 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,216 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [twas](https://github.com/vutran/twas) ⭐ 251 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - Generate a relative time string (Example: "3 seconds ago")
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) ⭐ 109 | 🐛 8 | 🌐 JavaScript | 📅 2020-11-24 - Get a formatted timestamp.
 * [hirestime](https://github.com/seriousManual/hirestime) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2025-02-22 - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
@@ -78,7 +78,7 @@
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 307 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 276 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) ⚠️ Archived - Recursive Object.assign().
-* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 217 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Map object keys and values into a new object.
+* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 218 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Map object keys and values into a new object.
 * [filter-obj](https://github.com/sindresorhus/filter-obj) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-27 - Filter object keys and values into a new object.
 * [sorted-object](https://github.com/domenic/sorted-object) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-06 - Returns a copy of an object with its keys sorted.
 * [object-values](https://github.com/sindresorhus/object-values) ⚠️ Archived - Get the values of an object.
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-26 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-28 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -143,7 +143,7 @@
 ### File System
 
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,852 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
-* [tmp](https://github.com/raszi/node-tmp) ⭐ 775 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
+* [tmp](https://github.com/raszi/node-tmp) ⭐ 776 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
 * [file-size](https://github.com/Nijikokun/file-size) ⭐ 232 | 🐛 1 | 🌐 JavaScript | 📅 2020-01-22 - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) ⭐ 170 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-12 - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 * [du](https://github.com/rvagg/node-du) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2023-02-13 - A simple JavaScript implementation of du -sb.
@@ -169,7 +169,7 @@
 ### CLI
 
 * [glob](https://github.com/isaacs/node-glob) ⭐ 8,714 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20 - Glob functionality for node.js.
-* [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 180 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
+* [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 179 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 167 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 145 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
 * [help-version](https://github.com/eush77/help-version) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2016-06-16 - Easily handle --help and --version arguments in your CLI application
@@ -186,7 +186,7 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,950 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,953 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,320 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,355 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
@@ -202,8 +202,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,631 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,735 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,642 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
