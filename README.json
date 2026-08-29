@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: some best practices for JS modules",
+            "homepage": null,
             "id": 25255619,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-30T15:58:34Z",
+            "open_issues": 7,
             "owner": "mattdesl",
             "repo": "module-best-practices",
-            "stars": 1543
+            "stars": 1543,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:40.217Z"
         },
@@ -26,12 +31,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!",
+            "homepage": "https://blog.sindresorhus.com/answering-anything-678ce5623798",
             "id": 38368663,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-24T07:05:30Z",
+            "open_issues": 154,
             "owner": "sindresorhus",
             "repo": "ama",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "ama",
+              "answers",
+              "ask",
+              "ask-me-anything",
+              "meta",
+              "open-content",
+              "personal",
+              "question-answering",
+              "questions",
+              "questions-and-answers"
+            ]
           },
           "first_seen": "2026-08-28T19:24:40.217Z"
         }
@@ -50,12 +71,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficiently remove an element from an unordered array without doing a splice",
+                "homepage": null,
                 "id": 48804294,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-05T04:18:54Z",
+                "open_issues": 2,
                 "owner": "mafintosh",
                 "repo": "unordered-array-remove",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -66,12 +92,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast cartesian product",
+                "homepage": null,
                 "id": 188844132,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T15:58:42Z",
+                "open_issues": 0,
                 "owner": "ehmicky",
                 "repo": "fast-cartesian",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "algorithm",
+                  "cartesian",
+                  "cartesian-product",
+                  "cartesian-products",
+                  "combinations",
+                  "combinatorics",
+                  "data-structures",
+                  "es6",
+                  "functional",
+                  "functional-programming",
+                  "iterable",
+                  "javascript",
+                  "library",
+                  "lodash",
+                  "lodash-fp",
+                  "nodejs",
+                  "performance",
+                  "product",
+                  "sets",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -82,12 +134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Group array of objects into lists.",
+                "homepage": null,
                 "id": 39344317,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-12T16:57:17Z",
+                "open_issues": 1,
                 "owner": "doowb",
                 "repo": "group-array",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -98,12 +155,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recursively flatten an array or arrays. This is the fastest implementation of array flatten.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 24482300,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-30T06:45:35Z",
+                "open_issues": 6,
                 "owner": "jonschlinkert",
                 "repo": "arr-flatten",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "array",
+                  "flatten",
+                  "javascript",
+                  "microlib",
+                  "nested",
+                  "nodejs",
+                  "util",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -114,12 +185,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Returns an array with only the unique values from all given arrays using strict equality for comparisons.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 24489135,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-04T11:06:12Z",
+                "open_issues": 4,
                 "owner": "jonschlinkert",
                 "repo": "arr-diff",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "arr",
+                  "array",
+                  "diff",
+                  "difference",
+                  "elements",
+                  "javascript",
+                  "nodejs",
+                  "unique",
+                  "util",
+                  "utility",
+                  "values"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -130,12 +218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Returns an array filled with the specified input",
+                "homepage": null,
                 "id": 45537166,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-08T11:26:14Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "filled-array",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -146,12 +239,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Return the last element in an array. Faster than `.slice`",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 21301701,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-27T03:53:20Z",
+                "open_issues": 9,
                 "owner": "jonschlinkert",
                 "repo": "array-last",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "array",
+                  "element",
+                  "javascript",
+                  "last",
+                  "node",
+                  "nodejs",
+                  "slice"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -162,12 +268,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small module to check if an Array is sorted",
+                "homepage": null,
                 "id": 35795297,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-24T04:07:03Z",
+                "open_issues": 0,
                 "owner": "dcousens",
                 "repo": "is-sorted",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "array",
+                  "array-like",
+                  "javascript",
+                  "sort",
+                  "sorting"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -178,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "creates a new array with given range",
+                "homepage": null,
                 "id": 26404606,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-04T03:52:42Z",
+                "open_issues": 4,
                 "owner": "mattdesl",
                 "repo": "array-range",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -194,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "easy deduplication of array values",
+                "homepage": null,
                 "id": 11723455,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-02T03:32:03Z",
+                "open_issues": 3,
                 "owner": "seriousManual",
                 "repo": "dedupe",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -210,12 +337,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Return true if a value exists in an array. Faster than using indexOf and won't blow up on null values.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 21237454,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-03-27T14:50:07Z",
+                "open_issues": 1,
                 "owner": "jonschlinkert",
                 "repo": "in-array",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "array",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -226,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Split array/TypedArray to chunks of given size",
+                "homepage": "https://www.npmjs.com/package/array.chunk",
                 "id": 49112344,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-01-11T05:22:16Z",
+                "open_issues": 2,
                 "owner": "zhiyelee",
                 "repo": "array.chunk",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -242,12 +383,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the first element or first n elements of an array.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 27917097,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-02-13T22:13:22Z",
+                "open_issues": 6,
                 "owner": "jonschlinkert",
                 "repo": "array-first",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "array",
+                  "first",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -258,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swaps the index / position of an array",
+                "homepage": "http://npmjs.com/package/swap-array",
                 "id": 56661016,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-06T03:47:02Z",
+                "open_issues": 1,
                 "owner": "michaelzoidl",
                 "repo": "swap-array",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -274,12 +430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NPM module for creating a keymirror object from an array of strings",
+                "homepage": null,
                 "id": 102540670,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-08T14:08:08Z",
+                "open_issues": 0,
                 "owner": "johnwquarles",
                 "repo": "mirrarray",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -290,12 +451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map object keys and values into an array.",
+                "homepage": null,
                 "id": 51334036,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-03T09:20:35Z",
+                "open_issues": 0,
                 "owner": "parro-it",
                 "repo": "map-array",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -313,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "slugifies even utf-8 chars!",
+                "homepage": null,
                 "id": 2417811,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2019-04-05T15:49:19Z",
+                "open_issues": 39,
                 "owner": "dodo",
                 "repo": "node-slug",
-                "stars": 1071
+                "stars": 1071,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -329,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strip ANSI escape codes from a string",
+                "homepage": null,
                 "id": 15014856,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-26T13:51:11Z",
+                "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 500
+                "stars": 500,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -345,12 +521,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of PHP's strip_tags in Typescript.",
+                "homepage": null,
                 "id": 21293722,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-10-04T22:00:45Z",
+                "open_issues": 1,
                 "owner": "ericnorris",
                 "repo": "striptags",
-                "stars": 492
+                "stars": 492,
+                "topics": [
+                  "html",
+                  "node",
+                  "strip-tags",
+                  "striptags",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -361,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow",
+                "homepage": null,
                 "id": 29773710,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T13:16:49Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "decamelize",
-                "stars": 245
+                "stars": 245,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -377,12 +569,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Left pad a string with zeros or a specified string. Fastest implementation.",
+                "homepage": null,
                 "id": 27347019,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-17T05:27:58Z",
+                "open_issues": 0,
                 "owner": "jonschlinkert",
                 "repo": "pad-left",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "fill",
+                  "left",
+                  "pad",
+                  "repeat",
+                  "string"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -393,12 +596,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a camel case.",
+                "homepage": null,
                 "id": 12937543,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-09-20T07:48:03Z",
+                "open_issues": 0,
                 "owner": "ianstormtaylor",
                 "repo": "to-camel-case",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "case",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -409,12 +620,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":milky_way: nano library to enhance String.substring / Array.slice with python slice style by Proxy.",
+                "homepage": "https://git.hust.cc/slice.js",
                 "id": 64276989,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-03-10T13:15:56Z",
+                "open_issues": 0,
                 "owner": "hustcc",
                 "repo": "slice.js",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "array",
+                  "python",
+                  "slice",
+                  "string"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -425,12 +646,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a snake case.",
+                "homepage": null,
                 "id": 12937589,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-09-21T18:20:39Z",
+                "open_issues": 2,
                 "owner": "ianstormtaylor",
                 "repo": "to-snake-case",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "case",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -441,12 +670,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a title case.",
+                "homepage": null,
                 "id": 12939004,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-21T19:53:51Z",
+                "open_issues": 1,
                 "owner": "ianstormtaylor",
                 "repo": "to-title-case",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "case",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -457,12 +694,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remove an existing case from a string.",
+                "homepage": null,
                 "id": 12940671,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-26T00:36:41Z",
+                "open_issues": 1,
                 "owner": "ianstormtaylor",
                 "repo": "to-no-case",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "case",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -473,12 +718,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a capital case.",
+                "homepage": null,
                 "id": 12937830,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-08-07T07:59:23Z",
+                "open_issues": 2,
                 "owner": "ianstormtaylor",
                 "repo": "to-capital-case",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "case",
+                  "javascript",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -489,12 +743,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a sentence case.",
+                "homepage": null,
                 "id": 12939120,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-21T19:53:09Z",
+                "open_issues": 0,
                 "owner": "ianstormtaylor",
                 "repo": "to-sentence-case",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "case",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -505,12 +767,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a space case.",
+                "homepage": null,
                 "id": 12937424,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-21T19:47:55Z",
+                "open_issues": 1,
                 "owner": "ianstormtaylor",
                 "repo": "to-space-case",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "case",
+                  "javascript",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -521,12 +792,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a dot case.",
+                "homepage": null,
                 "id": 12942270,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-02-07T20:46:01Z",
+                "open_issues": 0,
                 "owner": "ianstormtaylor",
                 "repo": "to-dot-case",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "case",
+                  "javascript",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -537,12 +817,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to a constant case.",
+                "homepage": null,
                 "id": 12939064,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-21T21:14:36Z",
+                "open_issues": 0,
                 "owner": "ianstormtaylor",
                 "repo": "to-constant-case",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "case",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -553,12 +841,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a string to pascal case.",
+                "homepage": null,
                 "id": 13101956,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-21T19:52:51Z",
+                "open_issues": 0,
                 "owner": "ianstormtaylor",
                 "repo": "to-pascal-case",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "case",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -569,12 +865,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Created with CodeSandbox",
+                "homepage": "https://codesandbox.io/s/github/DaniAkash/pluralizer",
                 "id": 352010814,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-03-27T09:05:39Z",
+                "open_issues": 0,
                 "owner": "DaniAkash",
                 "repo": "pluralize",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -585,12 +886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse next JSON value from string allowing extraneous characters after value  ",
+                "homepage": null,
                 "id": 121163026,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-11-02T22:38:41Z",
+                "open_issues": 1,
                 "owner": "ErikOnBike",
                 "repo": "parse-next-json-value",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -601,12 +907,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Strip whitespace - or other characters - from the end of a string",
+                "homepage": "https://www.npmjs.com/package/rtrim",
                 "id": 61306904,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-25T20:13:41Z",
+                "open_issues": 0,
                 "owner": "sergejmueller",
                 "repo": "rtrim",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "rtrim",
+                  "string",
+                  "strip",
+                  "trim"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -624,12 +940,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.",
+                "homepage": "https://timeago.ling.pub",
                 "id": 61765411,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T01:08:09Z",
+                "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5372
+                "stars": 5372,
+                "topics": [
+                  "date-format",
+                  "datetime",
+                  "i18n",
+                  "multi-language",
+                  "real-time",
+                  "timeago",
+                  "tiny"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -640,12 +969,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight and simple JS date formatting and parsing",
+                "homepage": null,
                 "id": 28998101,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-05T05:12:00Z",
+                "open_issues": 8,
                 "owner": "taylorhakes",
                 "repo": "fecha",
-                "stars": 2068
+                "stars": 2068,
+                "topics": [
+                  "date",
+                  "javascript",
+                  "parsing"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -656,12 +994,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`",
+                "homepage": null,
                 "id": 17945902,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:29:57Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pretty-ms",
-                "stars": 1216
+                "stars": 1216,
+                "topics": [
+                  "humanize",
+                  "milliseconds",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -672,12 +1019,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕰 Tiny (280B) relative time string function (eg: \"3 seconds ago\")",
+                "homepage": null,
                 "id": 118822149,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-08T19:33:53Z",
+                "open_issues": 0,
                 "owner": "vutran",
                 "repo": "twas",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "ago",
+                  "from-now",
+                  "relative",
+                  "time",
+                  "timeago"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -688,12 +1046,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get a formatted timestamp. Used in gulp, assemble, generate, and many others.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 34895918,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-24T06:02:18Z",
+                "open_issues": 8,
                 "owner": "jonschlinkert",
                 "repo": "time-stamp",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "date",
+                  "datetime",
+                  "days",
+                  "format",
+                  "hours",
+                  "javascript",
+                  "minutes",
+                  "node",
+                  "nodejs",
+                  "time",
+                  "time-stamp",
+                  "timestamp",
+                  "year"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -704,12 +1081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "thin wrapper around process.hrtime in node and for the performance API in the browser",
+                "homepage": null,
                 "id": 14906417,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-22T02:52:39Z",
+                "open_issues": 1,
                 "owner": "seriousManual",
                 "repo": "hirestime",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -720,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get a time reference using Akamai's time reference service",
+                "homepage": "https://developer.akamai.com/stuff/Akamai_Time_Reference/AkamaiTimeReference.html",
                 "id": 42533438,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-08T16:14:32Z",
+                "open_issues": 0,
                 "owner": "jucrouzet",
                 "repo": "akamai-time-reference",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -736,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 29584090,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-01-21T10:46:59Z",
+                "open_issues": 0,
                 "owner": "timruffles",
                 "repo": "periods",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -752,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the number of days in a given month",
+                "homepage": null,
                 "id": 62118750,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-07-27T09:44:31Z",
+                "open_issues": 0,
                 "owner": "shinnn",
                 "repo": "count-days-in-month",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -775,12 +1172,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep diffs two objects, including nested structures of arrays and objects, and returns the difference. ❄️",
+                "homepage": "https://www.npmjs.com/package/deep-object-diff",
                 "id": 74713360,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-04T12:06:22Z",
+                "open_issues": 35,
                 "owner": "mattphillips",
                 "repo": "deep-object-diff",
-                "stars": 1139
+                "stars": 1139,
+                "topics": [
+                  "array",
+                  "deep",
+                  "diff",
+                  "nested-structures",
+                  "object"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -791,12 +1199,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "node's assert.deepEqual algorithm",
+                "homepage": null,
                 "id": 3413682,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-16T05:30:05Z",
+                "open_issues": 4,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
-                "stars": 792
+                "stars": 792,
+                "topics": [
+                  "assert",
+                  "deepequal",
+                  "equal",
+                  "javascript",
+                  "loose",
+                  "node",
+                  "nodejs",
+                  "strict"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -807,12 +1229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stringify an object/array like JSON.stringify just without all the double-quotes",
+                "homepage": null,
                 "id": 7118637,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-07-02T22:24:38Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "stringify-object",
-                "stars": 325
+                "stars": 325,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -823,12 +1250,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use property paths (`a.b.c`) get a nested value from an object.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 24911025,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-14T17:51:01Z",
+                "open_issues": 2,
                 "owner": "jonschlinkert",
                 "repo": "get-value",
-                "stars": 307
+                "stars": 307,
+                "topics": [
+                  "deep",
+                  "deep-property",
+                  "dot-notation",
+                  "dot-prop",
+                  "get",
+                  "get-deep",
+                  "javascript",
+                  "jonschlinkert",
+                  "key",
+                  "lodash",
+                  "nested",
+                  "node",
+                  "nodejs",
+                  "object",
+                  "object-path",
+                  "paths",
+                  "value"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -839,12 +1289,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set nested properties on an object using dot-notation.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 32835871,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-08T02:11:26Z",
+                "open_issues": 13,
                 "owner": "jonschlinkert",
                 "repo": "set-value",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "deep-property",
+                  "dot",
+                  "dot-notation",
+                  "dot-prop",
+                  "get",
+                  "getobject",
+                  "javascript",
+                  "lodash",
+                  "nested",
+                  "node",
+                  "object",
+                  "object-path",
+                  "path",
+                  "properties",
+                  "property",
+                  "set",
+                  "set-deep",
+                  "val",
+                  "value"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -855,12 +1330,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Recursive Object.assign()",
+                "homepage": null,
                 "id": 42437804,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-23T09:11:08Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "deep-assign",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "deprecated",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -871,12 +1354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map object keys and values into a new object",
+                "homepage": null,
                 "id": 25117742,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-21T07:21:49Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "map-obj",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -887,12 +1375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Filter object keys and values into a new object",
+                "homepage": null,
                 "id": 40465124,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-27T10:48:45Z",
+                "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "filter-obj",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -903,12 +1396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Returns a copy of an object with its keys sorted",
+                "homepage": null,
                 "id": 16925161,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-06T07:30:44Z",
+                "open_issues": 0,
                 "owner": "domenic",
                 "repo": "sorted-object",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -919,12 +1417,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Get the values of an object",
+                "homepage": null,
                 "id": 16587374,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-21T00:28:40Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "object-values",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -935,12 +1438,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Returns true if a value exists, false if empty. Works with deeply nested values using object paths.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 24310408,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-03-03T20:49:13Z",
+                "open_issues": 2,
                 "owner": "jonschlinkert",
                 "repo": "has-value",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "check",
+                  "dot-notation",
+                  "javascript",
+                  "microlib",
+                  "object",
+                  "property",
+                  "util",
+                  "value"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -951,12 +1468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts an object literal with deeply nested nodes to a simple key/value object",
+                "homepage": null,
                 "id": 28595966,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-27T07:33:47Z",
+                "open_issues": 0,
                 "owner": "watson",
                 "repo": "flatten-obj",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -967,12 +1489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check if an object is empty.",
+                "homepage": null,
                 "id": 32098702,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-24T18:04:15Z",
+                "open_issues": 1,
                 "owner": "gummesson",
                 "repo": "is-empty-object",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -983,12 +1510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pluck without the madness",
+                "homepage": null,
                 "id": 20976659,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-23T22:18:57Z",
+                "open_issues": 0,
                 "owner": "jarofghosts",
                 "repo": "just-pluck",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -999,12 +1531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Returns a map with the keys mapped to the corresponding vals.",
+                "homepage": null,
                 "id": 18124260,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-12-15T02:27:11Z",
+                "open_issues": 0,
                 "owner": "landau",
                 "repo": "zipmap",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1015,12 +1552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flatten object keys",
+                "homepage": null,
                 "id": 11331109,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2013-07-11T03:42:30Z",
+                "open_issues": 0,
                 "owner": "ricardobeat",
                 "repo": "flatkeys",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1031,12 +1573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 60365953,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-07-24T14:11:01Z",
+                "open_issues": 0,
                 "owner": "LinusU",
                 "repo": "has-own-property",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1047,12 +1594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object -> [[key0, value0], [key1, value1]...]",
+                "homepage": null,
                 "id": 27942654,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-05-25T18:35:50Z",
+                "open_issues": 0,
                 "owner": "eush77",
                 "repo": "object-pairs",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1063,12 +1615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Merge two objects and concatenate arrays that are values of the same object key.",
+                "homepage": null,
                 "id": 42031932,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-09-16T06:15:52Z",
+                "open_issues": 2,
                 "owner": "alexshevch",
                 "repo": "node-merge-objects",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1079,12 +1636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep-search objects for keys in JavaScript objects. Keys can be searched by providing an array of keys, or using a dot-notiation.",
+                "homepage": "https://www.npmjs.com/package/has-key-deep",
                 "id": 29684161,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-18T01:32:31Z",
+                "open_issues": 1,
                 "owner": "ryanaghdam",
                 "repo": "has-key-deep",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1095,12 +1657,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":thought_balloon: Tells you what keys from first object are missing in second",
+                "homepage": "https://www.npmjs.com/missing-deep-keys",
                 "id": 61966971,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-02-19T15:28:34Z",
+                "open_issues": 0,
                 "owner": "vladholubiev",
                 "repo": "missing-deep-keys",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1118,12 +1687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input",
+                "homepage": null,
                 "id": 48387914,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T16:42:15Z",
+                "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "memoize",
-                "stars": 1163
+                "stars": 1163,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1134,12 +1708,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Throttle and debounce functions.",
+                "homepage": null,
                 "id": 28270199,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-24T14:06:25Z",
+                "open_issues": 6,
                 "owner": "niksy",
                 "repo": "throttle-debounce",
-                "stars": 1044
+                "stars": 1044,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1150,12 +1729,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "simple curry module, with nothing *too clever*, and full test coverage",
+                "homepage": null,
                 "id": 1121569,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-10-08T05:42:09Z",
+                "open_issues": 14,
                 "owner": "dominictarr",
                 "repo": "curry",
-                "stars": 315
+                "stars": 315,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1166,12 +1750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run a function exactly one time",
+                "homepage": null,
                 "id": 5409660,
                 "language": "JavaScript",
+                "license": "BlueOak-1.0.0",
                 "last_commit": "2025-10-25T19:07:40Z",
+                "open_issues": 4,
                 "owner": "isaacs",
                 "repo": "once",
-                "stars": 224
+                "stars": 224,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1182,12 +1771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Function composition",
+                "homepage": null,
                 "id": 28769775,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-07T17:21:19Z",
+                "open_issues": 2,
                 "owner": "stoeffel",
                 "repo": "compose-function",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1198,12 +1792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very tiny and fast compose function.",
+                "homepage": null,
                 "id": 150695739,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T19:14:34Z",
+                "open_issues": 20,
                 "owner": "hipstersmoothie",
                 "repo": "compose-tiny",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1214,12 +1813,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bind a context to all functions in an object, including deeply nested functions.",
+                "homepage": null,
                 "id": 50092947,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-11T07:09:20Z",
+                "open_issues": 2,
                 "owner": "jonschlinkert",
                 "repo": "deep-bind",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bind",
+                  "context",
+                  "function",
+                  "javascript",
+                  "nodejs",
+                  "object"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1237,12 +1848,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "I created this in 2014, the year I learned how to program. All of the downloads are from an old version of https://github.com/micromatch/micromatch. I've done a few other things since: https://github.com/jonschlinkert.",
+                "homepage": "https://stackoverflow.com/questions/6211613/testing-whether-a-value-is-odd-or-even",
                 "id": 31246939,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-04-18T23:39:16Z",
+                "open_issues": 6,
                 "owner": "i-voted-for-trump",
                 "repo": "is-odd",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "floating-point-bug",
+                  "troll-bait"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1253,12 +1872,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript/Node.js utility. Returns `true` if the value is a number or string number. Useful for checking regex match results, user input, parsed strings, etc. ",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 24313173,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-15T14:46:56Z",
+                "open_issues": 17,
                 "owner": "jonschlinkert",
                 "repo": "is-number",
-                "stars": 283
+                "stars": 283,
+                "topics": [
+                  "float",
+                  "integer",
+                  "is",
+                  "isnan",
+                  "javascript",
+                  "jonschlinkert",
+                  "nan",
+                  "negative",
+                  "nodejs",
+                  "number",
+                  "numeric",
+                  "real",
+                  "zero"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1269,12 +1907,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "I created this in 2014, when I was learning how to program. ",
+                "homepage": null,
                 "id": 31246963,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-06T00:52:26Z",
+                "open_issues": 1,
                 "owner": "i-voted-for-trump",
                 "repo": "is-even",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1285,12 +1928,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny easy math include addition multiplication subtraction division.",
+                "homepage": "https://kingzez.github.io/easy-math.js/",
                 "id": 150231295,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2020-08-10T03:51:04Z",
+                "open_issues": 2,
                 "owner": "kingzez",
                 "repo": "easy-math.js",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "floating-point",
+                  "javascript",
+                  "math",
+                  "math-library",
+                  "mathematics",
+                  "number-converter",
+                  "numeric-computing",
+                  "safe-float",
+                  "true-math",
+                  "typescript",
+                  "typescript-library"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1301,12 +1961,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finds prime numbers using the Sieve of Eratosthenes algorithm.",
+                "homepage": "https://www.npmjs.com/package/my-prime",
                 "id": 300398426,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-05-09T03:43:07Z",
+                "open_issues": 0,
                 "owner": "jinnatul",
                 "repo": "my-prime",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "nodejs",
+                  "npm",
+                  "npm-package",
+                  "number-theory",
+                  "opensource",
+                  "prime-numbers"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1317,12 +1989,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find the Greatest Common Divisor using Euclidean Algorithm",
+                "homepage": "https://www.npmjs.com/package/fun-gcd",
                 "id": 300909290,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-03T16:51:43Z",
+                "open_issues": 0,
                 "owner": "zubayerhimel",
                 "repo": "fun-gcd",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "euclidean-algorithm",
+                  "gcd",
+                  "npm",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1340,12 +2022,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)",
+                "homepage": null,
                 "id": 2442469,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-14T01:23:58Z",
+                "open_issues": 54,
                 "owner": "dominictarr",
                 "repo": "JSONStream",
-                "stars": 1930
+                "stars": 1930,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1356,12 +2043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise",
+                "homepage": null,
                 "id": 11808187,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T01:54:10Z",
+                "open_issues": 0,
                 "owner": "rvagg",
                 "repo": "through2",
-                "stars": 1907
+                "stars": 1907,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1372,12 +2064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pipe streams together and close all of them if one of them closes",
+                "homepage": null,
                 "id": 12118126,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-28T13:30:14Z",
+                "open_issues": 20,
                 "owner": "mafintosh",
                 "repo": "pump",
-                "stars": 918
+                "stars": 918,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1388,12 +2085,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "writable stream that concatenates strings or data and calls a callback with the result",
+                "homepage": null,
                 "id": 5280109,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-23T02:19:31Z",
+                "open_issues": 19,
                 "owner": "max-mapper",
                 "repo": "concat-stream",
-                "stars": 575
+                "stars": 575,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1404,12 +2106,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 5615862,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-02T12:29:19Z",
+                "open_issues": 6,
                 "owner": "dominictarr",
                 "repo": "split",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1420,12 +2127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check if something is a Node.js stream",
+                "homepage": null,
                 "id": 29436825,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-28T05:10:46Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-stream",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1436,12 +2148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transform your data as it pass by, synchronously.",
+                "homepage": null,
                 "id": 76952081,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-18T06:50:39Z",
+                "open_issues": 1,
                 "owner": "mcollina",
                 "repo": "syncthrough",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1452,12 +2169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A through2 to create an Array.prototype.map analog for streams.",
+                "homepage": null,
                 "id": 11916254,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-28T03:35:11Z",
+                "open_issues": 2,
                 "owner": "brycebaril",
                 "repo": "through2-map",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1468,12 +2190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A through2 wrapper to create an Array.prototype.filter analog for streams",
+                "homepage": null,
                 "id": 11915926,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-28T03:11:39Z",
+                "open_issues": 2,
                 "owner": "brycebaril",
                 "repo": "through2-filter",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1484,12 +2211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A streams2 Readable stream generator, useful for testing.",
+                "homepage": null,
                 "id": 11164221,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-28T15:37:03Z",
+                "open_issues": 2,
                 "owner": "brycebaril",
                 "repo": "node-stream-spigot",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1500,12 +2232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small promise-based wrapper for through2",
+                "homepage": null,
                 "id": 52368518,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2017-10-25T14:13:44Z",
+                "open_issues": 0,
                 "owner": "RangerMauve",
                 "repo": "through2-map-promise",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1523,12 +2260,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Promisify a callback-style function",
+                "homepage": null,
                 "id": 41585934,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T12:49:04Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pify",
-                "stars": 1503
+                "stars": 1503,
+                "topics": [
+                  "promise-utilities",
+                  "promises",
+                  "promisify"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1539,12 +2285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test whether an object looks like a promises-a+ promise",
+                "homepage": null,
                 "id": 7296439,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-29T17:31:49Z",
+                "open_issues": 2,
                 "owner": "then",
                 "repo": "is-promise",
-                "stars": 282
+                "stars": 282,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1555,12 +2306,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resolves a promise after a specified delay.",
+                "homepage": null,
                 "id": 41221963,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:12:51Z",
+                "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "javascript",
+                  "promise"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1571,12 +2330,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like `Promise.all` but for object properties.",
+                "homepage": "https://npmjs.com/promise-all-props",
                 "id": 53211009,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-03-12T15:29:27Z",
+                "open_issues": 1,
                 "owner": "Siilwyn",
                 "repo": "promise-all-props",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "deno",
+                  "promise"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1594,12 +2361,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎀 Just the cutest and tiniest queue/deque implementation!",
+                "homepage": "https://npm.im/quetie",
                 "id": 380885864,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-01T20:39:07Z",
+                "open_issues": 0,
                 "owner": "TomerAberbach",
                 "repo": "quetie",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "amortized-array",
+                  "data-structures",
+                  "deque",
+                  "double-ended-queue",
+                  "npm-module",
+                  "npm-package",
+                  "queue",
+                  "stack"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1617,12 +2398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A `rm -rf` util for nodejs",
+                "homepage": null,
                 "id": 1341324,
                 "language": "TypeScript",
+                "license": "BlueOak-1.0.0",
                 "last_commit": "2026-05-15T19:38:06Z",
+                "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5852
+                "stars": 5852,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1633,12 +2419,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporary file and directory creator for node.js",
+                "homepage": null,
                 "id": 2313213,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T15:47:49Z",
+                "open_issues": 11,
                 "owner": "raszi",
                 "repo": "node-tmp",
-                "stars": 776
+                "stars": 776,
+                "topics": [
+                  "library",
+                  "nodejs",
+                  "tempdir",
+                  "tempfiles"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1649,12 +2445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📂 Lightweight filesize to human-readable / proportions w/o dependencies for node.js & browsers.",
+                "homepage": null,
                 "id": 15042109,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-01-22T19:06:22Z",
+                "open_issues": 1,
                 "owner": "nijikokun",
                 "repo": "file-size",
-                "stars": 232
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1665,12 +2466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] Use mz or fs-extra^3 with Promise support",
+                "homepage": "https://www.npmjs.com/package/fs-extra",
                 "id": 10233292,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-06-12T03:03:58Z",
+                "open_issues": 2,
                 "owner": "kevinbeaty",
                 "repo": "fs-promise",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1681,12 +2487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple JavaScript implementation of `du -sb`",
+                "homepage": null,
                 "id": 7146706,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-13T20:00:11Z",
+                "open_issues": 2,
                 "owner": "rvagg",
                 "repo": "node-du",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1697,12 +2508,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Returns the GitHub username and email of the current system's .gitconfig",
+                "homepage": null,
                 "id": 303106732,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-31T20:15:59Z",
+                "open_issues": 0,
                 "owner": "rocktimsaikia",
                 "repo": "read-git-user",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "gitconfig",
+                  "github",
+                  "github-user"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1720,12 +2540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight event delegation",
+                "homepage": "http://npmjs.com/delegate",
                 "id": 44934060,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-06T18:19:22Z",
+                "open_issues": 12,
                 "owner": "zenorocha",
                 "repo": "delegate",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1736,12 +2561,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📄 Copy text from browser to clipboard...natively! < 1kB",
+                "homepage": "https://copee.ceriously.com",
                 "id": 39547867,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T03:10:33Z",
+                "open_issues": 0,
                 "owner": "styfle",
                 "repo": "copee",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "browser-api",
+                  "clipboard",
+                  "copy",
+                  "text"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1752,12 +2587,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎑🤞 Load one or more images, return a promise. Tiny, browser-only, no dependencies.",
+                "homepage": "https://npm.im/image-promise",
                 "id": 55337336,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-02-01T19:34:06Z",
+                "open_issues": 0,
                 "owner": "fregante",
                 "repo": "image-promise",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "events",
+                  "image",
+                  "imagesloaded",
+                  "onload",
+                  "promise"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1768,12 +2614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Document ready listener for modern browsers",
+                "homepage": null,
                 "id": 43971880,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-21T18:05:51Z",
+                "open_issues": 0,
                 "owner": "bendrucker",
                 "repo": "document-ready",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1784,12 +2635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the real size of an <img>, <video>, or <canvas> in the browser.",
+                "homepage": "http://npmjs.com/package/get-media-size",
                 "id": 40849624,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-24T10:00:14Z",
+                "open_issues": 0,
                 "owner": "fregante",
                 "repo": "get-media-size",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1800,12 +2656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOM element value getter/setter.",
+                "homepage": null,
                 "id": 35337560,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-12-29T22:26:38Z",
+                "open_issues": 0,
                 "owner": "crysalead-js",
                 "repo": "dom-element-value",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1823,12 +2684,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The semver parser for node (the one npm uses)",
+                "homepage": "https://semver.npmjs.com/",
                 "id": 1357199,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-07-02T06:23:10Z",
+                "open_issues": 54,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5459
+                "stars": 5459,
+                "topics": [
+                  "npm-cli"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1839,12 +2707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find maximum (or minimum) version according to semver",
+                "homepage": null,
                 "id": 39397579,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-07-20T17:21:31Z",
+                "open_issues": 0,
                 "owner": "eush77",
                 "repo": "semver-max",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1855,12 +2728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find minimum in an array of version that satisfies a semver range.",
+                "homepage": null,
                 "id": 50139908,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-29T14:00:49Z",
+                "open_issues": 0,
                 "owner": "parro-it",
                 "repo": "semver-first-satisfied",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1878,12 +2756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "glob functionality for node.js",
+                "homepage": null,
                 "id": 357681,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T17:51:52Z",
+                "open_issues": 4,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8714
+                "stars": 8714,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1894,12 +2777,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "convert png to ico format",
+                "homepage": null,
                 "id": 68063806,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-06T07:59:52Z",
+                "open_issues": 0,
                 "owner": "steambap",
                 "repo": "png-to-ico",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "cli",
+                  "converter",
+                  "ico",
+                  "image",
+                  "image-processing",
+                  "png",
+                  "png-converter",
+                  "png-icon"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1910,12 +2807,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like ruby's Abbrev module",
+                "homepage": null,
                 "id": 554893,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-18T16:29:48Z",
+                "open_issues": 0,
                 "owner": "npm",
                 "repo": "abbrev-js",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "npm-cli"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1926,12 +2830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the username of the current user",
+                "homepage": null,
                 "id": 18270175,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-14T16:18:47Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "username",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1942,12 +2851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily handle --help and --version arguments in your CLI application",
+                "homepage": null,
                 "id": 36123516,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-06-16T18:49:36Z",
+                "open_issues": 0,
                 "owner": "eush77",
                 "repo": "help-version",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -1965,12 +2879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get namespaced config from the closest package.json",
+                "homepage": null,
                 "id": 41794781,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-05T19:11:54Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "package-config",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -1981,12 +2900,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 18090503,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-02T02:27:08Z",
+                "open_issues": 6,
                 "owner": "jonschlinkert",
                 "repo": "normalize-pkg",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "javascript",
+                  "jonschlinkert",
+                  "json",
+                  "node",
+                  "nodejs",
+                  "normalize",
+                  "object",
+                  "package",
+                  "packagejson",
+                  "schema"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -2004,12 +2939,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check whether a given value is a generator function",
+                "homepage": null,
                 "id": 16551690,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-07T08:51:49Z",
+                "open_issues": 0,
                 "owner": "blakeembrey",
                 "repo": "is-generator",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -2027,12 +2967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+                "homepage": "https://zelark.github.io/nano-id-cc/",
                 "id": 99401299,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T20:13:57Z",
+                "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26953
+                "stars": 26953,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -2043,12 +2988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate RFC-compliant UUIDs in JavaScript",
+                "homepage": null,
                 "id": 1203139,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T18:19:21Z",
+                "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15320
+                "stars": 15320,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -2059,12 +3009,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mime types for JavaScript",
+                "homepage": null,
                 "id": 534940,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T18:09:16Z",
+                "open_issues": 6,
                 "owner": "broofa",
                 "repo": "mime",
-                "stars": 2355
+                "stars": 2355,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -2075,12 +3030,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check if a string represent a fully qualified domain name",
+                "homepage": null,
                 "id": 58229310,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-10T00:39:49Z",
+                "open_issues": 9,
                 "owner": "parro-it",
                 "repo": "is-fqdn",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -2091,12 +3051,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I'll give you the right URL, but don't call me Shirley!",
+                "homepage": "https://jsr.io/@brn/shurley",
                 "id": 231963146,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T07:52:06Z",
+                "open_issues": 0,
                 "owner": "BrunoBernardino",
                 "repo": "shurley",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "deno",
+                  "javascript",
+                  "jsr",
+                  "npm",
+                  "package",
+                  "typescript",
+                  "url-parser"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -2107,12 +3080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "checks if foo is not defined, i.e. undefined, null, an empty string, array, object or NaN",
+                "homepage": null,
                 "id": 51136450,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-17T16:22:29Z",
+                "open_issues": 0,
                 "owner": "fibo",
                 "repo": "not-defined",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             },
@@ -2123,12 +3101,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check all the available MIME types of an extension",
+                "homepage": "https://npmjs.com/mime-type-check",
                 "id": 300685115,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T06:49:30Z",
+                "open_issues": 0,
                 "owner": "rocktimsaikia",
                 "repo": "mime-type-check",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "esm",
+                  "file-extension",
+                  "javascript",
+                  "mime",
+                  "mime-db",
+                  "mime-type",
+                  "mime-type-check",
+                  "mime-types",
+                  "nodejs",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -2146,12 +3140,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐦 Check for deprecated packages",
+                "homepage": null,
                 "id": 566382879,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T01:20:06Z",
+                "open_issues": 0,
                 "owner": "KID-joker",
                 "repo": "npm-deprecated-check",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "cli",
+                  "cli-tool",
+                  "dependencies",
+                  "deprecated",
+                  "mcp-tools"
+                ]
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
             }
@@ -2173,12 +3178,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+            "homepage": "https://node.cool",
             "id": 21737266,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-03T08:24:10Z",
+            "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66642
+            "stars": 66641,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "list",
+              "node",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T19:24:40.217Z"
         },
@@ -2189,12 +3206,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome npm resources and tips",
+            "homepage": null,
             "id": 49596056,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-20T12:11:28Z",
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4736
+            "stars": 4736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "node",
+              "nodejs",
+              "npm",
+              "package-manager",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T19:24:40.217Z"
         }
@@ -2203,15 +3234,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:24:40.217Z",
+    "last_updated": "2026-08-29T04:17:14.991Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of small, focused npm packages.",
+      "homepage": null,
       "id": 51155797,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-12-18T13:25:02Z",
+      "open_issues": 7,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4624
+      "stars": 4624,
+      "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
     "enhanced_repository": "enhansome/enhansome-micro-npm-packages",
