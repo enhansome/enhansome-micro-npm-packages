@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,009 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 ## Articles
 
@@ -187,7 +187,7 @@
 ### Other
 
 * [nanoid](https://github.com/ai/nanoid) ⭐ 26,953 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,320 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,319 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,355 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,641 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,645 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow

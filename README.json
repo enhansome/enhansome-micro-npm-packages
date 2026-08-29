@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15320,
+                "stars": 15319,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66641,
+            "stars": 66645,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:17:14.991Z",
+    "last_updated": "2026-08-29T13:08:36.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
