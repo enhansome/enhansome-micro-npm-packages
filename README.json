@@ -2407,7 +2407,7 @@
                 "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5852,
+                "stars": 5851,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2690,7 +2690,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-07-02T06:23:10Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5459,
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26953,
+                "stars": 26954,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15319,
+                "stars": 15320,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66645,
+            "stars": 66658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4736,
+            "stars": 4739,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:08:36.083Z",
+    "last_updated": "2026-08-30T12:49:38.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
