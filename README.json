@@ -1208,7 +1208,7 @@
                 "open_issues": 4,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
-                "stars": 792,
+                "stars": 791,
                 "topics": [
                   "assert",
                   "deepequal",
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26954,
+                "stars": 26956,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15320,
+                "stars": 15321,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66658,
+            "stars": 66668,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:49:38.844Z",
+    "last_updated": "2026-08-31T15:03:24.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 7,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4624,
+      "stars": 4623,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
