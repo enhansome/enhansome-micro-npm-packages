@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T16:12:51Z",
+                "last_commit": "2026-08-31T21:32:26Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2973,10 +2973,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-10T20:13:57Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26956,
+                "stars": 26957,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15321,
+                "stars": 15322,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3018,7 +3018,7 @@
                 "open_issues": 6,
                 "owner": "broofa",
                 "repo": "mime",
-                "stars": 2355,
+                "stars": 2356,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66668,
+            "stars": 66672,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4739,
+            "stars": 4737,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:03:24.452Z",
+    "last_updated": "2026-09-01T12:32:28.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
