@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,902 | 🐛 105 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,214 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-31 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-01 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -142,7 +142,7 @@
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,851 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,852 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
 * [tmp](https://github.com/raszi/node-tmp) ⭐ 776 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
 * [file-size](https://github.com/Nijikokun/file-size) ⭐ 232 | 🐛 1 | 🌐 JavaScript | 📅 2020-01-22 - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) ⭐ 170 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-12 - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
@@ -153,7 +153,7 @@
 ### Browser
 
 * [delegate](https://github.com/zenorocha/delegate) ⭐ 186 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-06 - Lightweight event delegation.
-* [copee](https://github.com/styfle/copee) ⭐ 154 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-02 - Copy text from browser to clipboard...natively!
+* [copee](https://github.com/styfle/copee) ⭐ 154 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01 - Copy text from browser to clipboard...natively!
 * [image-promise](https://github.com/bfred-it/image-promise) ⭐ 147 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-01 - Load one or more `<img>`s in a Promise.
 * [document-ready](https://github.com/bendrucker/document-ready) ⭐ 59 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-21 - Document ready listener for modern browsers.
 * [get-media-size](https://github.com/bfred-it/get-media-size) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-24 - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
@@ -162,7 +162,7 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,459 | 🐛 55 | 🌐 JavaScript | 📅 2026-07-02 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,460 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-01 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,957 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,322 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,956 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,321 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,672 | 🐛 26 | 📅 2026-05-03 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,682 | 🐛 26 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,737 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

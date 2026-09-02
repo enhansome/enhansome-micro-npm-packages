@@ -2031,7 +2031,7 @@
                 "open_issues": 54,
                 "owner": "dominictarr",
                 "repo": "JSONStream",
-                "stars": 1930,
+                "stars": 1929,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T21:32:26Z",
+                "last_commit": "2026-09-01T15:53:43Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2407,7 +2407,7 @@
                 "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5851,
+                "stars": 5852,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2566,8 +2566,8 @@
                 "id": 39547867,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-02T03:10:33Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-01T22:51:16Z",
+                "open_issues": 1,
                 "owner": "styfle",
                 "repo": "copee",
                 "stars": 154,
@@ -2689,11 +2689,11 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-07-02T06:23:10Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-01T20:50:45Z",
+                "open_issues": 56,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5459,
+                "stars": 5460,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2972,11 +2972,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-10T20:13:57Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-01T12:46:44Z",
+                "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26957,
+                "stars": 26956,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15322,
+                "stars": 15321,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3183,11 +3183,11 @@
             "id": 21737266,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-05-03T08:24:10Z",
+            "last_commit": "2026-09-02T02:11:34Z",
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66672,
+            "stars": 66682,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:32:28.298Z",
+    "last_updated": "2026-09-02T12:05:22.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
