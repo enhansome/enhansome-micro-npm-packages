@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,214 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,567 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -20,7 +20,7 @@
 ### Array
 
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) ⭐ 117 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-05 - Efficiently remove an element from an unordered array without doing a splice.
-* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 73 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 - Fast cartesian product.
+* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 73 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-02 - Fast cartesian product.
 * [group-array](https://github.com/doowb/group-array) ⭐ 66 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-12 - Group array of objects into lists.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 6 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
@@ -39,7 +39,7 @@
 ### String
 
 * [node-slug](https://github.com/dodo/node-slug) ⭐ 1,071 | 🐛 39 | 🌐 CoffeeScript | 📅 2019-04-05 - slugifies even utf-8 chars.
-* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 500 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-26 - Strip ANSI escape codes.
+* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 498 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-26 - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) ⭐ 492 | 🐛 1 | 🌐 TypeScript | 📅 2022-10-04 - An implementation of PHP's strip\_tags in Node.js.
 * [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 245 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-25 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
 * [pad-left](https://github.com/jonschlinkert/pad-left) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-17 - Left pad a string with zeros or a specified string.
@@ -109,7 +109,7 @@
 ### Math
 
 * [is-odd](https://github.com/jonschlinkert/is-odd) ⚠️ Archived - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
-* [is-number](https://github.com/jonschlinkert/is-number) ⭐ 283 | 🐛 17 | 🌐 JavaScript | 📅 2022-09-15 - Returns `true` if the value is a number.
+* [is-number](https://github.com/jonschlinkert/is-number) ⭐ 284 | 🐛 17 | 🌐 JavaScript | 📅 2022-09-15 - Returns `true` if the value is a number.
 * [is-even](https://github.com/jonschlinkert/is-even) ⚠️ Archived - A good way to tell if a number is even or not (avoids type issues). Uses `is-odd` and `is-number` under the hood.
 * [easy-math.js](https://github.com/kingzez/easy-math.js) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2020-08-10 - A tiny easy math library including addition, multiplication, subtraction, and division.
 * [my-prime](https://github.com/jinnatul/my-prime) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-09 - A good way to tell if a number is prime or not.
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-01 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-02 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -162,7 +162,7 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,460 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-01 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,462 | 🐛 59 | 🌐 JavaScript | 📅 2026-09-01 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
@@ -186,9 +186,9 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,956 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,321 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,957 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,324 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
+* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,357 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 * [not-defined](https://github.com/fibo/not-defined) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,682 | 🐛 26 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,694 | 🐛 26 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,737 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

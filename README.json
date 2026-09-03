@@ -97,8 +97,8 @@
                 "id": 188844132,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-04T15:58:42Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-02T23:48:21Z",
+                "open_issues": 2,
                 "owner": "ehmicky",
                 "repo": "fast-cartesian",
                 "stars": 73,
@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 500,
+                "stars": 498,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1857,7 +1857,7 @@
                 "open_issues": 6,
                 "owner": "i-voted-for-trump",
                 "repo": "is-odd",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "floating-point-bug",
                   "troll-bait"
@@ -1881,7 +1881,7 @@
                 "open_issues": 17,
                 "owner": "jonschlinkert",
                 "repo": "is-number",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "float",
                   "integer",
@@ -1916,7 +1916,7 @@
                 "open_issues": 1,
                 "owner": "i-voted-for-trump",
                 "repo": "is-even",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T15:53:43Z",
+                "last_commit": "2026-09-02T20:36:23Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-01T20:50:45Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5460,
+                "stars": 5462,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26956,
+                "stars": 26957,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15321,
+                "stars": 15324,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3018,7 +3018,7 @@
                 "open_issues": 6,
                 "owner": "broofa",
                 "repo": "mime",
-                "stars": 2356,
+                "stars": 2357,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66682,
+            "stars": 66694,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:05:22.714Z",
+    "last_updated": "2026-09-03T12:04:21.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3243,7 +3243,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2023-12-18T13:25:02Z",
-      "open_issues": 7,
+      "open_issues": 6,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
       "stars": 4623,
