@@ -97,8 +97,8 @@
                 "id": 188844132,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T23:48:21Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-03T15:58:32Z",
+                "open_issues": 0,
                 "owner": "ehmicky",
                 "repo": "fast-cartesian",
                 "stars": 73,
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T20:36:23Z",
+                "last_commit": "2026-09-04T09:58:00Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2689,7 +2689,7 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-09-01T20:50:45Z",
+                "last_commit": "2026-09-03T17:22:12Z",
                 "open_issues": 59,
                 "owner": "npm",
                 "repo": "node-semver",
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26957,
+                "stars": 26962,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66694,
+            "stars": 66699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:04:21.481Z",
+    "last_updated": "2026-09-04T12:06:07.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 6,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4623,
+      "stars": 4624,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
