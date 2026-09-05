@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5372,
+                "stars": 5371,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -2407,7 +2407,7 @@
                 "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5852,
+                "stars": 5851,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2693,7 +2693,7 @@
                 "open_issues": 59,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5462,
+                "stars": 5464,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26962,
+                "stars": 26959,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3018,7 +3018,7 @@
                 "open_issues": 6,
                 "owner": "broofa",
                 "repo": "mime",
-                "stars": 2357,
+                "stars": 2356,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66699,
+            "stars": 66713,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:06:07.717Z",
+    "last_updated": "2026-09-05T11:14:57.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
