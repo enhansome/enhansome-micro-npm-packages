@@ -2094,7 +2094,7 @@
                 "open_issues": 19,
                 "owner": "max-mapper",
                 "repo": "concat-stream",
-                "stars": 575,
+                "stars": 576,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2693,7 +2693,7 @@
                 "open_issues": 59,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5464,
+                "stars": 5466,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2765,7 +2765,7 @@
                 "open_issues": 4,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8714,
+                "stars": 8715,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26959,
+                "stars": 26960,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3178,16 +3178,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+            "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
             "homepage": "https://node.cool",
             "id": 21737266,
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:11:34Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66713,
+            "stars": 66718,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:14:57.220Z",
+    "last_updated": "2026-09-06T11:37:40.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
