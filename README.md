@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,465 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,850 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -60,8 +60,8 @@
 
 ### Date & Time
 
-* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,371 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
-* [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,068 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
+* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,370 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
+* [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,067 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,216 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [twas](https://github.com/vutran/twas) ⭐ 251 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - Generate a relative time string (Example: "3 seconds ago")
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) ⭐ 109 | 🐛 8 | 🌐 JavaScript | 📅 2020-11-24 - Get a formatted timestamp.
@@ -75,7 +75,7 @@
 * [deep-object-diff](https://github.com/mattphillips/deep-object-diff) ⭐ 1,139 | 🐛 35 | 🌐 JavaScript | 📅 2024-03-04 - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 * [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 791 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 - Node's assert.deepEqual() algorithm as a standalone module.
 * [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 325 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-02 - Stringify an object/array like JSON.stringify just without all the double-quotes.
-* [get-value](https://github.com/jonschlinkert/get-value) ⭐ 307 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
+* [get-value](https://github.com/jonschlinkert/get-value) ⭐ 308 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 276 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) ⚠️ Archived - Recursive Object.assign().
 * [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 218 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Map object keys and values into a new object.
@@ -97,7 +97,7 @@
 
 ### Function
 
-* [mem](https://github.com/sindresorhus/mem) ⭐ 1,163 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-21 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+* [mem](https://github.com/sindresorhus/mem) ⭐ 1,164 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-21 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce](https://github.com/niksy/throttle-debounce) ⭐ 1,044 | 🐛 6 | 🌐 JavaScript | 📅 2024-06-24 - Throttle/debounce your functions.
 * [curry](https://github.com/dominictarr/curry) ⚠️ Archived - A curry function without anything too clever.
 * [once](https://github.com/isaacs/once) ⭐ 224 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-25 - Run a function exactly one time.
@@ -162,7 +162,7 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 59 | 🌐 JavaScript | 📅 2026-09-03 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 60 | 🌐 JavaScript | 📅 2026-09-03 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,960 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,324 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,961 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,329 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,8 +202,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,718 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,737 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,725 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
