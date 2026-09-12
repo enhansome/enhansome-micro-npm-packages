@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T23:39:35Z",
+                "last_commit": "2026-09-11T19:36:20Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2765,7 +2765,7 @@
                 "open_issues": 4,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8712,
+                "stars": 8711,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26965,
+                "stars": 26964,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66773,
+            "stars": 66783,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:10:48.078Z",
+    "last_updated": "2026-09-12T11:35:17.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 6,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4623,
+      "stars": 4622,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
