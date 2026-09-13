@@ -97,8 +97,8 @@
                 "id": 188844132,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T17:06:25Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-13T07:20:42Z",
+                "open_issues": 1,
                 "owner": "ehmicky",
                 "repo": "fast-cartesian",
                 "stars": 73,
@@ -1717,7 +1717,7 @@
                 "open_issues": 6,
                 "owner": "niksy",
                 "repo": "throttle-debounce",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26964,
+                "stars": 26967,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66783,
+            "stars": 66795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:35:17.289Z",
+    "last_updated": "2026-09-13T12:42:03.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
