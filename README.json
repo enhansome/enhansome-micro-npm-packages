@@ -40,7 +40,7 @@
             "open_issues": 154,
             "owner": "sindresorhus",
             "repo": "ama",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "ama",
               "answers",
@@ -2693,7 +2693,7 @@
                 "open_issues": 61,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5465,
+                "stars": 5466,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26971,
+                "stars": 26973,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2993,7 +2993,7 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T21:30:51Z",
+                "last_commit": "2026-09-15T13:08:02Z",
                 "open_issues": 2,
                 "owner": "uuidjs",
                 "repo": "uuid",
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66812,
+            "stars": 66822,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4735,
+            "stars": 4736,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:38:23.443Z",
+    "last_updated": "2026-09-16T12:34:35.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
