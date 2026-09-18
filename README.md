@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,986 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,342 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -20,7 +20,7 @@
 ### Array
 
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) ⭐ 117 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-05 - Efficiently remove an element from an unordered array without doing a splice.
-* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 73 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-13 - Fast cartesian product.
+* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 74 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-13 - Fast cartesian product.
 * [group-array](https://github.com/doowb/group-array) ⭐ 66 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-12 - Group array of objects into lists.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 6 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
@@ -60,7 +60,7 @@
 
 ### Date & Time
 
-* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,368 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
+* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,369 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,067 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,215 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [twas](https://github.com/vutran/twas) ⭐ 251 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - Generate a relative time string (Example: "3 seconds ago")
@@ -72,7 +72,7 @@
 
 ### Object
 
-* [deep-object-diff](https://github.com/mattphillips/deep-object-diff) ⭐ 1,139 | 🐛 35 | 🌐 JavaScript | 📅 2024-03-04 - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
+* [deep-object-diff](https://github.com/mattphillips/deep-object-diff) ⭐ 1,140 | 🐛 35 | 🌐 JavaScript | 📅 2024-03-04 - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 * [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 792 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 - Node's assert.deepEqual() algorithm as a standalone module.
 * [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 325 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-02 - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 308 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
@@ -97,7 +97,7 @@
 
 ### Function
 
-* [mem](https://github.com/sindresorhus/mem) ⭐ 1,164 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-21 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+* [mem](https://github.com/sindresorhus/mem) ⭐ 1,165 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-21 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce](https://github.com/niksy/throttle-debounce) ⭐ 1,045 | 🐛 6 | 🌐 JavaScript | 📅 2024-06-24 - Throttle/debounce your functions.
 * [curry](https://github.com/dominictarr/curry) ⚠️ Archived - A curry function without anything too clever.
 * [once](https://github.com/isaacs/once) ⭐ 222 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-25 - Run a function exactly one time.
@@ -124,9 +124,9 @@
 * [split](https://github.com/dominictarr/split) ⚠️ Archived - Break up a stream and reassemble it so that each line is a chunk.
 * [is-stream](https://github.com/sindresorhus/is-stream) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-28 - Check if something is a Node.js stream.
 * [syncthrough](https://github.com/mcollina/syncthrough) ⭐ 110 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18 - Transform your data as it pass by, synchronously.
-* [through2-map](https://github.com/brycebaril/through2-map) ⭐ 70 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-28 - A through2 to create an Array.prototype.map analog for streams.
-* [through2-filter](https://github.com/brycebaril/through2-filter) ⭐ 34 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-28 - A through2 to create an Array.prototype.filter analog for streams.
-* [stream-spigot](https://github.com/brycebaril/node-stream-spigot) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2017-03-28 - A readable stream generator, useful for testing or converting simple functions into Readable streams.
+* [through2-map](https://github.com/brycebaril/through2-map) ⭐ 70 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17 - A through2 to create an Array.prototype.map analog for streams.
+* [through2-filter](https://github.com/brycebaril/through2-filter) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17 - A through2 to create an Array.prototype.filter analog for streams.
+* [stream-spigot](https://github.com/brycebaril/node-stream-spigot) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-17 - A readable stream generator, useful for testing or converting simple functions into Readable streams.
 * [through2-map-promise](https://github.com/RangerMauve/through2-map-promise) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-25 - A small promise-based wrapper for through2.
 
 ### Promise
@@ -138,11 +138,11 @@
 
 ### Data Structure
 
-* [quetie](https://github.com/TomerAberbach/quetie) ⭐ 114 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-01 - Just the cutest and tiniest queue/deque implementation!
+* [quetie](https://github.com/TomerAberbach/quetie) ⭐ 115 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-01 - Just the cutest and tiniest queue/deque implementation!
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,848 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,849 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
 * [tmp](https://github.com/raszi/node-tmp) ⭐ 775 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
 * [file-size](https://github.com/Nijikokun/file-size) ⭐ 232 | 🐛 1 | 🌐 JavaScript | 📅 2020-01-22 - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) ⭐ 170 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-12 - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
@@ -168,7 +168,7 @@
 
 ### CLI
 
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,711 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20 - Glob functionality for node.js.
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,711 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-20 - Glob functionality for node.js.
 * [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 179 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 167 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 144 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
@@ -186,9 +186,9 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,975 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,328 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,354 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,977 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,331 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
+* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,355 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 * [not-defined](https://github.com/fibo/not-defined) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,837 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,844 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
