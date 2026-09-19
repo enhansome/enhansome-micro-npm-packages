@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,342 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,700 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -24,7 +24,7 @@
 * [group-array](https://github.com/doowb/group-array) ⭐ 66 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-12 - Group array of objects into lists.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 6 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
-* [filled-array](https://github.com/sindresorhus/filled-array) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-08 - Returns an array filled with the specified input
+* [filled-array](https://github.com/sindresorhus/filled-array) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Returns an array filled with the specified input
 * [array-last](https://github.com/jonschlinkert/array-last) ⭐ 33 | 🐛 9 | 🌐 JavaScript | 📅 2021-12-27 - Return the last element in an array.
 * [is-sorted](https://github.com/dcousens/is-sorted) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2024-01-24 - A small module to check if an Array is sorted.
 * [array-range](https://github.com/mattdesl/array-range) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Creates a new array with given range.
@@ -39,7 +39,7 @@
 ### String
 
 * [node-slug](https://github.com/dodo/node-slug) ⭐ 1,068 | 🐛 39 | 🌐 CoffeeScript | 📅 2019-04-05 - slugifies even utf-8 chars.
-* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 498 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-26 - Strip ANSI escape codes.
+* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 498 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) ⭐ 492 | 🐛 1 | 🌐 TypeScript | 📅 2022-10-04 - An implementation of PHP's strip\_tags in Node.js.
 * [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 244 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-25 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
 * [pad-left](https://github.com/jonschlinkert/pad-left) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-17 - Left pad a string with zeros or a specified string.
@@ -62,7 +62,7 @@
 
 * [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,369 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,067 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
-* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,215 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,215 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [twas](https://github.com/vutran/twas) ⭐ 251 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - Generate a relative time string (Example: "3 seconds ago")
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) ⭐ 109 | 🐛 8 | 🌐 JavaScript | 📅 2020-11-24 - Get a formatted timestamp.
 * [hirestime](https://github.com/seriousManual/hirestime) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2025-02-22 - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
@@ -74,12 +74,12 @@
 
 * [deep-object-diff](https://github.com/mattphillips/deep-object-diff) ⭐ 1,140 | 🐛 35 | 🌐 JavaScript | 📅 2024-03-04 - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 * [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 792 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 - Node's assert.deepEqual() algorithm as a standalone module.
-* [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 325 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-02 - Stringify an object/array like JSON.stringify just without all the double-quotes.
+* [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 325 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 308 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 276 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) ⚠️ Archived - Recursive Object.assign().
-* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 217 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Map object keys and values into a new object.
-* [filter-obj](https://github.com/sindresorhus/filter-obj) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-27 - Filter object keys and values into a new object.
+* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 217 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Map object keys and values into a new object.
+* [filter-obj](https://github.com/sindresorhus/filter-obj) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-18 - Filter object keys and values into a new object.
 * [sorted-object](https://github.com/domenic/sorted-object) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-06 - Returns a copy of an object with its keys sorted.
 * [object-values](https://github.com/sindresorhus/object-values) ⚠️ Archived - Get the values of an object.
 * [has-value](https://github.com/jonschlinkert/has-value) ⭐ 26 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-03 - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
@@ -97,7 +97,7 @@
 
 ### Function
 
-* [mem](https://github.com/sindresorhus/mem) ⭐ 1,165 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-21 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+* [mem](https://github.com/sindresorhus/mem) ⭐ 1,165 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-18 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce](https://github.com/niksy/throttle-debounce) ⭐ 1,045 | 🐛 6 | 🌐 JavaScript | 📅 2024-06-24 - Throttle/debounce your functions.
 * [curry](https://github.com/dominictarr/curry) ⚠️ Archived - A curry function without anything too clever.
 * [once](https://github.com/isaacs/once) ⭐ 222 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-25 - Run a function exactly one time.
@@ -122,7 +122,7 @@
 * [pump](https://github.com/mafintosh/pump) ⭐ 917 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-28 - pipe streams together and close all of them if one of them closes.
 * [concat-stream](https://github.com/maxogden/concat-stream) ⭐ 574 | 🐛 19 | 🌐 JavaScript | 📅 2021-06-23 - writable stream that concatenates strings or data and calls a callback with the result.
 * [split](https://github.com/dominictarr/split) ⚠️ Archived - Break up a stream and reassemble it so that each line is a chunk.
-* [is-stream](https://github.com/sindresorhus/is-stream) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-28 - Check if something is a Node.js stream.
+* [is-stream](https://github.com/sindresorhus/is-stream) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Check if something is a Node.js stream.
 * [syncthrough](https://github.com/mcollina/syncthrough) ⭐ 110 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18 - Transform your data as it pass by, synchronously.
 * [through2-map](https://github.com/brycebaril/through2-map) ⭐ 70 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17 - A through2 to create an Array.prototype.map analog for streams.
 * [through2-filter](https://github.com/brycebaril/through2-filter) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17 - A through2 to create an Array.prototype.filter analog for streams.
@@ -131,9 +131,9 @@
 
 ### Promise
 
-* [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Promisify a callback-style function.
+* [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 281 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-15 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-18 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -162,13 +162,13 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 61 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 62 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
 ### CLI
 
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,711 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-20 - Glob functionality for node.js.
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,711 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 - Glob functionality for node.js.
 * [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 179 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 167 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 144 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
@@ -177,7 +177,7 @@
 
 ### Module management
 
-* [pkg-conf](https://github.com/sindresorhus/pkg-conf) ⭐ 117 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-05 - Get namespaced config from the closest package.json.
+* [pkg-conf](https://github.com/sindresorhus/pkg-conf) ⭐ 117 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Get namespaced config from the closest package.json.
 * [normalize-pkg](https://github.com/jonschlinkert/normalize-pkg) ⭐ 18 | 🐛 6 | 🌐 JavaScript | 📅 2020-03-02 - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ### Generators
@@ -186,9 +186,9 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,977 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,331 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,355 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,976 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,333 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
+* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 * [not-defined](https://github.com/fibo/not-defined) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,844 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,852 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
