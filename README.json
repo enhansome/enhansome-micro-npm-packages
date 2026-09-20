@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5369,
+                "stars": 5368,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T23:48:01Z",
+                "last_commit": "2026-09-19T12:47:18Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 62,
+                "open_issues": 58,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5466,
+                "stars": 5465,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26976,
+                "stars": 26977,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15333,
+                "stars": 15332,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66852,
+            "stars": 66867,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:54:30.893Z",
+    "last_updated": "2026-09-20T12:17:46.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 6,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4622,
+      "stars": 4621,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
