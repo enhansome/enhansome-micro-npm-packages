@@ -161,7 +161,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2021-12-30T06:45:35Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "jonschlinkert",
                 "repo": "arr-flatten",
                 "stars": 58,
@@ -2690,7 +2690,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 58,
+                "open_issues": 61,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5465,
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26977,
+                "stars": 26979,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15332,
+                "stars": 15330,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3184,10 +3184,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:11:34Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66867,
+            "stars": 66881,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4736,
+            "stars": 4737,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:17:46.623Z",
+    "last_updated": "2026-09-21T14:01:53.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
