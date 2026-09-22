@@ -161,7 +161,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2021-12-30T06:45:35Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "jonschlinkert",
                 "repo": "arr-flatten",
                 "stars": 58,
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T12:47:18Z",
+                "last_commit": "2026-09-21T22:25:54Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2407,7 +2407,7 @@
                 "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5849,
+                "stars": 5850,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2693,7 +2693,7 @@
                 "open_issues": 61,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5465,
+                "stars": 5466,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26979,
+                "stars": 26982,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66881,
+            "stars": 66898,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:01:53.593Z",
+    "last_updated": "2026-09-22T12:33:57.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
