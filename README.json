@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5369,
+                "stars": 5368,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T22:25:54Z",
+                "last_commit": "2026-09-25T03:05:24Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26985,
+                "stars": 26984,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15332,
+                "stars": 15334,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3149,7 +3149,7 @@
                 "open_issues": 0,
                 "owner": "KID-joker",
                 "repo": "npm-deprecated-check",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "cli",
                   "cli-tool",
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66915,
+            "stars": 66922,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4738,
+            "stars": 4739,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:42:03.148Z",
+    "last_updated": "2026-09-25T12:44:09.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
