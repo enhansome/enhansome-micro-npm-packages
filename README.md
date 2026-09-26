@@ -2,11 +2,11 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,224 | 🐛 107 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,715 | 🐛 107 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
-* [Module best practices](https://github.com/mattdesl/module-best-practices) ⭐ 1,541 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-30
+* [Module best practices](https://github.com/mattdesl/module-best-practices) ⭐ 1,542 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-30
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10) ⭐ 145 | 🐛 154 | 📅 2021-01-24
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
@@ -131,9 +131,9 @@
 
 ### Promise
 
-* [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify a callback-style function.
+* [pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 281 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-25 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-26 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -162,7 +162,7 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 60 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 62 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
@@ -186,7 +186,7 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,984 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,985 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,334 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
@@ -202,8 +202,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,922 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,739 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,931 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,740 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
