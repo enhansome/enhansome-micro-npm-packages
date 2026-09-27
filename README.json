@@ -2976,7 +2976,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26985,
+                "stars": 26986,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66931,
+            "stars": 66939,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:11:53.100Z",
+    "last_updated": "2026-09-27T12:58:13.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
