@@ -97,8 +97,8 @@
                 "id": 188844132,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T16:28:13Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-29T09:19:17Z",
+                "open_issues": 1,
                 "owner": "ehmicky",
                 "repo": "fast-cartesian",
                 "stars": 74,
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 62,
+                "open_issues": 65,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5467,
+                "stars": 5466,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2973,10 +2973,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-23T21:58:22Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26990,
+                "stars": 26991,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4742,
+            "stars": 4743,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:22:08.429Z",
+    "last_updated": "2026-09-29T14:00:56.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
