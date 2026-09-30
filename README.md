@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,265 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,698 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -20,7 +20,7 @@
 ### Array
 
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) ⭐ 117 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-05 - Efficiently remove an element from an unordered array without doing a splice.
-* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 74 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-29 - Fast cartesian product.
+* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 74 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-29 - Fast cartesian product.
 * [group-array](https://github.com/doowb/group-array) ⭐ 66 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-12 - Group array of objects into lists.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 6 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
@@ -62,7 +62,7 @@
 
 * [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,368 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,067 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
-* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,216 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+* [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,217 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [twas](https://github.com/vutran/twas) ⭐ 251 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - Generate a relative time string (Example: "3 seconds ago")
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) ⭐ 108 | 🐛 8 | 🌐 JavaScript | 📅 2020-11-24 - Get a formatted timestamp.
 * [hirestime](https://github.com/seriousManual/hirestime) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2025-02-22 - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
@@ -162,13 +162,13 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 65 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,465 | 🐛 66 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
 ### CLI
 
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,712 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-19 - Glob functionality for node.js.
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,710 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-19 - Glob functionality for node.js.
 * [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 179 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 167 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 144 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
@@ -186,7 +186,7 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,991 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,992 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,334 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
@@ -196,14 +196,14 @@
 
 ### Tools
 
-* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) ⭐ 42 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27 - Check for deprecated packages and recommend alternative packages.
+* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-27 - Check for deprecated packages and recommend alternative packages.
 
 ## Related lists
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,955 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,743 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,961 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,744 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
