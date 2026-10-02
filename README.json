@@ -1363,7 +1363,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "map-obj",
-                "stars": 217,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:00:28Z",
+                "last_commit": "2026-10-01T16:14:47Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2566,7 +2566,7 @@
                 "id": 39547867,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T22:51:16Z",
+                "last_commit": "2026-10-01T22:55:13Z",
                 "open_issues": 1,
                 "owner": "styfle",
                 "repo": "copee",
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 66,
+                "open_issues": 68,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5465,
+                "stars": 5466,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2973,10 +2973,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-23T21:58:22Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26993,
+                "stars": 26994,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3146,7 +3146,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-05-27T01:20:06Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "KID-joker",
                 "repo": "npm-deprecated-check",
                 "stars": 42,
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66970,
+            "stars": 66977,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4742,
+            "stars": 4743,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:25:30.591Z",
+    "last_updated": "2026-10-02T13:48:49.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",

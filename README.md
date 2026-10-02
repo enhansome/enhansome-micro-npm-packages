@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,086 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,543 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -78,7 +78,7 @@
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 308 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 276 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) ⚠️ Archived - Recursive Object.assign().
-* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 217 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Map object keys and values into a new object.
+* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 216 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Map object keys and values into a new object.
 * [filter-obj](https://github.com/sindresorhus/filter-obj) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-18 - Filter object keys and values into a new object.
 * [sorted-object](https://github.com/domenic/sorted-object) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-06 - Returns a copy of an object with its keys sorted.
 * [object-values](https://github.com/sindresorhus/object-values) ⚠️ Archived - Get the values of an object.
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 281 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-30 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-01 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -153,7 +153,7 @@
 ### Browser
 
 * [delegate](https://github.com/zenorocha/delegate) ⭐ 185 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-06 - Lightweight event delegation.
-* [copee](https://github.com/styfle/copee) ⭐ 154 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01 - Copy text from browser to clipboard...natively!
+* [copee](https://github.com/styfle/copee) ⭐ 154 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 - Copy text from browser to clipboard...natively!
 * [image-promise](https://github.com/bfred-it/image-promise) ⭐ 147 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-01 - Load one or more `<img>`s in a Promise.
 * [document-ready](https://github.com/bendrucker/document-ready) ⭐ 58 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-21 - Document ready listener for modern browsers.
 * [get-media-size](https://github.com/bfred-it/get-media-size) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-24 - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
@@ -162,7 +162,7 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,465 | 🐛 66 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 68 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
@@ -186,7 +186,7 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,993 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,994 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,334 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
@@ -196,14 +196,14 @@
 
 ### Tools
 
-* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-27 - Check for deprecated packages and recommend alternative packages.
+* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) ⭐ 42 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27 - Check for deprecated packages and recommend alternative packages.
 
 ## Related lists
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,970 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,742 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,977 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,743 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
