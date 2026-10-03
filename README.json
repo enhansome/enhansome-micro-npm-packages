@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Module best practices",
-          "description": null,
+          "description": "mattdesl/module-best-practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "One-line node modules",
-          "description": null,
+          "description": "sindresorhus/ama",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1298,7 +1298,7 @@
                 "open_issues": 13,
                 "owner": "jonschlinkert",
                 "repo": "set-value",
-                "stars": 276,
+                "stars": 275,
                 "topics": [
                   "deep-property",
                   "dot",
@@ -1484,27 +1484,6 @@
             },
             {
               "node_type": "item",
-              "title": "just-pluck",
-              "description": "Pluck without the madness.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "pluck without the madness",
-                "homepage": null,
-                "id": 20976659,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2016-01-23T22:18:57Z",
-                "open_issues": 0,
-                "owner": "jarofghosts",
-                "repo": "just-pluck",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:24:40.217Z"
-            },
-            {
-              "node_type": "item",
               "title": "is-empty-object",
               "description": "Check if an object is empty.",
               "children": [],
@@ -1520,6 +1499,27 @@
                 "owner": "gummesson",
                 "repo": "is-empty-object",
                 "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:24:40.217Z"
+            },
+            {
+              "node_type": "item",
+              "title": "just-pluck",
+              "description": "Pluck without the madness.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "pluck without the madness",
+                "homepage": null,
+                "id": 20976659,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2016-01-23T22:18:57Z",
+                "open_issues": 0,
+                "owner": "jarofghosts",
+                "repo": "just-pluck",
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1738,7 +1738,7 @@
                 "open_issues": 14,
                 "owner": "dominictarr",
                 "repo": "curry",
-                "stars": 315,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 68,
+                "open_issues": 67,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5466,
+                "stars": 5465,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 5,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26994,
+                "stars": 26993,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15334,
+                "stars": 15335,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66977,
+            "stars": 66985,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4743,
+            "stars": 4744,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:48:49.242Z",
+    "last_updated": "2026-10-03T05:02:50.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",

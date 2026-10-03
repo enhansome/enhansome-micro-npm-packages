@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,543 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -76,7 +76,7 @@
 * [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 792 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 - Node's assert.deepEqual() algorithm as a standalone module.
 * [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 325 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 308 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
-* [set-value](https://github.com/jonschlinkert/set-value) ⭐ 276 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
+* [set-value](https://github.com/jonschlinkert/set-value) ⭐ 275 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) ⚠️ Archived - Recursive Object.assign().
 * [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 216 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Map object keys and values into a new object.
 * [filter-obj](https://github.com/sindresorhus/filter-obj) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-18 - Filter object keys and values into a new object.
@@ -84,8 +84,8 @@
 * [object-values](https://github.com/sindresorhus/object-values) ⚠️ Archived - Get the values of an object.
 * [has-value](https://github.com/jonschlinkert/has-value) ⭐ 26 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-03 - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
 * [flatten-obj](https://github.com/watson/flatten-obj) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-27 - Converts an object literal with deeply nested nodes to a simple key/value object.
-* [just-pluck](https://github.com/jarofghosts/just-pluck) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-23 - Pluck without the madness.
 * [is-empty-object](https://github.com/gummesson/is-empty-object) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2018-05-24 - Check if an object is empty.
+* [just-pluck](https://github.com/jarofghosts/just-pluck) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-23 - Pluck without the madness.
 * [zipmap](https://github.com/landau/zipmap) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-15 - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
 * [flatkeys](https://github.com/ricardobeat/flatkeys) ⭐ 3 | 🐛 0 | 🌐 CoffeeScript | 📅 2013-07-11 - Flatten object key hierarchies into a list of strings using a custom separator.
 * [has-own-property](https://github.com/LinusU/has-own-property) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-24 - Check if an object has a local property.
@@ -162,7 +162,7 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,466 | 🐛 68 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,465 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-10 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,994 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,334 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,993 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-23 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,335 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,356 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,8 +202,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,977 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,743 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,985 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,744 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
