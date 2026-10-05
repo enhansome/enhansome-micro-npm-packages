@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5368,
+                "stars": 5367,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -1259,7 +1259,7 @@
                 "open_issues": 2,
                 "owner": "jonschlinkert",
                 "repo": "get-value",
-                "stars": 308,
+                "stars": 306,
                 "topics": [
                   "deep",
                   "deep-property",
@@ -1696,7 +1696,7 @@
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "memoize",
-                "stars": 1165,
+                "stars": 1164,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1857,7 +1857,7 @@
                 "open_issues": 6,
                 "owner": "i-voted-for-trump",
                 "repo": "is-odd",
-                "stars": 363,
+                "stars": 364,
                 "topics": [
                   "floating-point-bug",
                   "troll-bait"
@@ -1916,7 +1916,7 @@
                 "open_issues": 1,
                 "owner": "i-voted-for-trump",
                 "repo": "is-even",
-                "stars": 265,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 67,
+                "open_issues": 66,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5464,
+                "stars": 5465,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2972,11 +2972,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T21:58:22Z",
+                "last_commit": "2026-10-05T09:43:59Z",
                 "open_issues": 5,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27029,
+                "stars": 27076,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15336,
+                "stars": 15335,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66997,
+            "stars": 67008,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:09:53.268Z",
+    "last_updated": "2026-10-05T15:56:36.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
