@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 498,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5367,
+                "stars": 5366,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:14:47Z",
+                "last_commit": "2026-10-05T17:39:54Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2566,8 +2566,8 @@
                 "id": 39547867,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:55:13Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T05:11:23Z",
+                "open_issues": 0,
                 "owner": "styfle",
                 "repo": "copee",
                 "stars": 154,
@@ -2690,7 +2690,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5465,
@@ -2761,7 +2761,7 @@
                 "id": 357681,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T05:05:18Z",
+                "last_commit": "2026-10-05T19:02:32Z",
                 "open_issues": 6,
                 "owner": "isaacs",
                 "repo": "node-glob",
@@ -2786,7 +2786,7 @@
                 "open_issues": 0,
                 "owner": "steambap",
                 "repo": "png-to-ico",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "cli",
                   "converter",
@@ -2972,11 +2972,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T09:43:59Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-05T21:16:46Z",
+                "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27076,
+                "stars": 27097,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15335,
+                "stars": 15336,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67008,
+            "stars": 67020,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T15:56:36.027Z",
+    "last_updated": "2026-10-06T10:57:06.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
