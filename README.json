@@ -945,7 +945,7 @@
                 "id": 61765411,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-06-30T01:08:09Z",
+                "last_commit": "2026-10-09T02:22:46Z",
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
@@ -1714,7 +1714,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2024-06-24T14:06:25Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "niksy",
                 "repo": "throttle-debounce",
                 "stars": 1045,
@@ -2052,7 +2052,7 @@
                 "open_issues": 0,
                 "owner": "rvagg",
                 "repo": "through2",
-                "stars": 1907,
+                "stars": 1906,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2689,8 +2689,8 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-09-10T19:52:15Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-08T15:07:28Z",
+                "open_issues": 69,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5466,
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27098,
+                "stars": 27096,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2993,11 +2993,11 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T13:08:02Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-08T22:34:40Z",
+                "open_issues": 6,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15337,
+                "stars": 15338,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3018,7 +3018,7 @@
                 "open_issues": 6,
                 "owner": "broofa",
                 "repo": "mime",
-                "stars": 2356,
+                "stars": 2357,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67033,
+            "stars": 67039,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4742,
+            "stars": 4743,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:32:25.494Z",
+    "last_updated": "2026-10-09T14:19:57.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
