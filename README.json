@@ -1759,7 +1759,7 @@
                 "open_issues": 4,
                 "owner": "isaacs",
                 "repo": "once",
-                "stars": 222,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2031,7 +2031,7 @@
                 "open_issues": 54,
                 "owner": "dominictarr",
                 "repo": "JSONStream",
-                "stars": 1928,
+                "stars": 1927,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2052,7 +2052,7 @@
                 "open_issues": 0,
                 "owner": "rvagg",
                 "repo": "through2",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2115,7 +2115,7 @@
                 "open_issues": 6,
                 "owner": "dominictarr",
                 "repo": "split",
-                "stars": 344,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T10:09:56Z",
+                "last_commit": "2026-10-10T00:50:30Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-10-08T15:07:28Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5466,
+                "stars": 5465,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2765,7 +2765,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8712,
+                "stars": 8711,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2972,11 +2972,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T21:16:46Z",
+                "last_commit": "2026-10-10T06:31:43Z",
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27096,
+                "stars": 27095,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2993,11 +2993,11 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T22:34:40Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-10T00:28:50Z",
+                "open_issues": 5,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15338,
+                "stars": 15336,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67039,
+            "stars": 67055,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:19:57.565Z",
+    "last_updated": "2026-10-10T13:36:02.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
