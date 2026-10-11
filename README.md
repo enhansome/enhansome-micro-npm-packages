@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,052 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,504 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -39,7 +39,7 @@
 ### String
 
 * [node-slug](https://github.com/dodo/node-slug) ⭐ 1,068 | 🐛 39 | 🌐 CoffeeScript | 📅 2019-04-05 - slugifies even utf-8 chars.
-* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 499 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Strip ANSI escape codes.
+* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 498 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) ⭐ 492 | 🐛 1 | 🌐 TypeScript | 📅 2022-10-04 - An implementation of PHP's strip\_tags in Node.js.
 * [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 244 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-25 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
 * [pad-left](https://github.com/jonschlinkert/pad-left) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-17 - Left pad a string with zeros or a specified string.
@@ -60,7 +60,7 @@
 
 ### Date & Time
 
-* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,367 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-09 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
+* [timeago.js](https://github.com/hustcc/timeago.js) ⭐ 5,366 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-09 - A tiny(\~1.7kb) library used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) ⭐ 2,067 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-05 - Javascript Date formatting and parsing.
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) ⭐ 1,217 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [twas](https://github.com/vutran/twas) ⭐ 251 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - Generate a relative time string (Example: "3 seconds ago")
@@ -119,7 +119,7 @@
 
 * [JSONStream](https://github.com/dominictarr/JSONStream) ⚠️ Archived - streaming JSON.parse and stringify
 * [through2](https://github.com/rvagg/through2) ⭐ 1,905 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25 - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
-* [pump](https://github.com/mafintosh/pump) ⭐ 917 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-28 - pipe streams together and close all of them if one of them closes.
+* [pump](https://github.com/mafintosh/pump) ⭐ 916 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-28 - pipe streams together and close all of them if one of them closes.
 * [concat-stream](https://github.com/maxogden/concat-stream) ⭐ 574 | 🐛 19 | 🌐 JavaScript | 📅 2021-06-23 - writable stream that concatenates strings or data and calls a callback with the result.
 * [split](https://github.com/dominictarr/split) ⚠️ Archived - Break up a stream and reassemble it so that each line is a chunk.
 * [is-stream](https://github.com/sindresorhus/is-stream) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Check if something is a Node.js stream.
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,095 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,336 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-10 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,096 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,337 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-10 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,357 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,8 +202,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,055 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,743 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,074 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,744 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
