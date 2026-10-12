@@ -527,7 +527,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2022-10-04T22:00:45Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ericnorris",
                 "repo": "striptags",
                 "stars": 492,
@@ -1881,7 +1881,7 @@
                 "open_issues": 17,
                 "owner": "jonschlinkert",
                 "repo": "is-number",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "float",
                   "integer",
@@ -2407,7 +2407,7 @@
                 "open_issues": 11,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5855,
+                "stars": 5854,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2690,7 +2690,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-10-08T15:07:28Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5465,
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27096,
+                "stars": 27098,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2994,7 +2994,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-10T00:28:50Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15337,
@@ -3014,8 +3014,8 @@
                 "id": 534940,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-05T18:09:16Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-12T06:25:53Z",
+                "open_issues": 0,
                 "owner": "broofa",
                 "repo": "mime",
                 "stars": 2357,
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67074,
+            "stars": 67088,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:58:28.817Z",
+    "last_updated": "2026-10-12T16:41:46.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
