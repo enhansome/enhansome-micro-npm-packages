@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "mattdesl",
             "repo": "module-best-practices",
-            "stars": 1542,
+            "stars": 1541,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:40.217Z"
@@ -97,8 +97,8 @@
                 "id": 188844132,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T15:25:11Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-12T22:16:21Z",
+                "open_issues": 1,
                 "owner": "ehmicky",
                 "repo": "fast-cartesian",
                 "stars": 74,
@@ -488,7 +488,7 @@
                 "open_issues": 39,
                 "owner": "dodo",
                 "repo": "node-slug",
-                "stars": 1068,
+                "stars": 1067,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -554,7 +554,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-25T13:16:49Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "decamelize",
                 "stars": 244,
@@ -1359,7 +1359,7 @@
                 "id": 25117742,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T19:10:56Z",
+                "last_commit": "2026-10-13T12:21:46Z",
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "map-obj",
@@ -2370,7 +2370,7 @@
                 "open_issues": 0,
                 "owner": "TomerAberbach",
                 "repo": "quetie",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "amortized-array",
                   "data-structures",
@@ -2404,7 +2404,7 @@
                 "language": "TypeScript",
                 "license": "BlueOak-1.0.0",
                 "last_commit": "2026-05-15T19:38:06Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "isaacs",
                 "repo": "rimraf",
                 "stars": 5854,
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27098,
+                "stars": 27101,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2993,11 +2993,11 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T00:28:50Z",
+                "last_commit": "2026-10-13T13:01:32Z",
                 "open_issues": 5,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15337,
+                "stars": 15338,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67088,
+            "stars": 67103,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:41:46.733Z",
+    "last_updated": "2026-10-13T14:58:56.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",

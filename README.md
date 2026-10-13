@@ -2,11 +2,11 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,028 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,474 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
-* [Module best practices](https://github.com/mattdesl/module-best-practices) ⭐ 1,542 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-30
+* [Module best practices](https://github.com/mattdesl/module-best-practices) ⭐ 1,541 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-30
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10) ⭐ 145 | 🐛 155 | 📅 2021-01-24
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
@@ -20,7 +20,7 @@
 ### Array
 
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) ⭐ 117 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-05 - Efficiently remove an element from an unordered array without doing a splice.
-* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 74 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-29 - Fast cartesian product.
+* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 74 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-12 - Fast cartesian product.
 * [group-array](https://github.com/doowb/group-array) ⭐ 65 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-12 - Group array of objects into lists.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 6 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
@@ -38,10 +38,10 @@
 
 ### String
 
-* [node-slug](https://github.com/dodo/node-slug) ⭐ 1,068 | 🐛 39 | 🌐 CoffeeScript | 📅 2019-04-05 - slugifies even utf-8 chars.
+* [node-slug](https://github.com/dodo/node-slug) ⭐ 1,067 | 🐛 39 | 🌐 CoffeeScript | 📅 2019-04-05 - slugifies even utf-8 chars.
 * [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 498 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) ⭐ 492 | 🐛 2 | 🌐 TypeScript | 📅 2022-10-04 - An implementation of PHP's strip\_tags in Node.js.
-* [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 244 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-25 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
+* [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 244 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-25 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
 * [pad-left](https://github.com/jonschlinkert/pad-left) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-17 - Left pad a string with zeros or a specified string.
 * [to-camel-case](https://github.com/ianstormtaylor/to-camel-case) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-20 - Convert a string to a camel case.
 * [slice.js](https://github.com/hustcc/slice.js) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-10 - Javascript library to enhance String.substring / Array.slice with python slice style.
@@ -78,7 +78,7 @@
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 307 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 275 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) ⚠️ Archived - Recursive Object.assign().
-* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 217 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Map object keys and values into a new object.
+* [map-obj](https://github.com/sindresorhus/map-obj) ⭐ 217 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Map object keys and values into a new object.
 * [filter-obj](https://github.com/sindresorhus/filter-obj) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-18 - Filter object keys and values into a new object.
 * [sorted-object](https://github.com/domenic/sorted-object) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-06 - Returns a copy of an object with its keys sorted.
 * [object-values](https://github.com/sindresorhus/object-values) ⚠️ Archived - Get the values of an object.
@@ -138,11 +138,11 @@
 
 ### Data Structure
 
-* [quetie](https://github.com/TomerAberbach/quetie) ⭐ 115 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-01 - Just the cutest and tiniest queue/deque implementation!
+* [quetie](https://github.com/TomerAberbach/quetie) ⭐ 116 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-01 - Just the cutest and tiniest queue/deque implementation!
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,854 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,854 | 🐛 12 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
 * [tmp](https://github.com/raszi/node-tmp) ⭐ 775 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
 * [file-size](https://github.com/Nijikokun/file-size) ⭐ 232 | 🐛 1 | 🌐 JavaScript | 📅 2020-01-22 - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) ⭐ 170 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-12 - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,098 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,337 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-10 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,101 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-10 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,338 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-13 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,357 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,088 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,103 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,744 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
