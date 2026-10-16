@@ -1717,7 +1717,7 @@
                 "open_issues": 7,
                 "owner": "niksy",
                 "repo": "throttle-debounce",
-                "stars": 1045,
+                "stars": 1044,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T19:01:29Z",
+                "last_commit": "2026-10-15T23:34:44Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2407,7 +2407,7 @@
                 "open_issues": 11,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5855,
+                "stars": 5854,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2428,7 +2428,7 @@
                 "open_issues": 11,
                 "owner": "raszi",
                 "repo": "node-tmp",
-                "stars": 776,
+                "stars": 775,
                 "topics": [
                   "library",
                   "nodejs",
@@ -2690,7 +2690,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-10-13T21:02:19Z",
-                "open_issues": 71,
+                "open_issues": 73,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5466,
@@ -2973,10 +2973,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-10T15:34:37Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27103,
+                "stars": 27104,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2994,10 +2994,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T13:01:32Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15338,
+                "stars": 15340,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67125,
+            "stars": 67136,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:37:18.246Z",
+    "last_updated": "2026-10-16T12:20:37.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
