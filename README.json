@@ -1916,7 +1916,7 @@
                 "open_issues": 1,
                 "owner": "i-voted-for-trump",
                 "repo": "is-even",
-                "stars": 266,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T23:34:44Z",
+                "last_commit": "2026-10-17T10:04:19Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2689,11 +2689,11 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-10-13T21:02:19Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-16T19:39:25Z",
+                "open_issues": 77,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5466,
+                "stars": 5468,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2972,8 +2972,8 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T15:34:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-16T13:01:49Z",
+                "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
                 "stars": 27104,
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67136,
+            "stars": 67145,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4744,
+            "stars": 4745,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:20:37.201Z",
+    "last_updated": "2026-10-17T11:33:49.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
