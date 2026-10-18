@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T10:04:19Z",
+                "last_commit": "2026-10-17T22:09:11Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27104,
+                "stars": 27105,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2993,8 +2993,8 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:01:32Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-17T22:00:31Z",
+                "open_issues": 6,
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15340,
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67145,
+            "stars": 67162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4745,
+            "stars": 4746,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:33:49.726Z",
+    "last_updated": "2026-10-18T12:01:49.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
