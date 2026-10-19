@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,727 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,291 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -118,7 +118,7 @@
 ### Stream
 
 * [JSONStream](https://github.com/dominictarr/JSONStream) ⚠️ Archived - streaming JSON.parse and stringify
-* [through2](https://github.com/rvagg/through2) ⭐ 1,906 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-13 - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
+* [through2](https://github.com/rvagg/through2) ⭐ 1,906 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-19 - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [pump](https://github.com/mafintosh/pump) ⭐ 917 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-28 - pipe streams together and close all of them if one of them closes.
 * [concat-stream](https://github.com/maxogden/concat-stream) ⭐ 575 | 🐛 19 | 🌐 JavaScript | 📅 2021-06-23 - writable stream that concatenates strings or data and calls a callback with the result.
 * [split](https://github.com/dominictarr/split) ⚠️ Archived - Break up a stream and reassemble it so that each line is a chunk.
@@ -162,7 +162,7 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,468 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-16 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,468 | 🐛 78 | 🌐 JavaScript | 📅 2026-10-16 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,105 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,340 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-17 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,106 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,341 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-19 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,359 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,162 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,169 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,746 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
