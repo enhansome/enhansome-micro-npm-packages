@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5367,
+                "stars": 5368,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T22:09:11Z",
+                "last_commit": "2026-10-20T18:55:07Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2407,7 +2407,7 @@
                 "open_issues": 11,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5853,
+                "stars": 5854,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2689,11 +2689,11 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-10-16T19:39:25Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-20T17:07:39Z",
+                "open_issues": 75,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5471,
+                "stars": 5472,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2997,7 +2997,7 @@
                 "open_issues": 7,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15342,
+                "stars": 15341,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67184,
+            "stars": 67195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4746,
+            "stars": 4747,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:41:10.994Z",
+    "last_updated": "2026-10-21T12:53:48.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
