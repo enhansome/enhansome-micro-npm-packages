@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 499,
+                "stars": 498,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1205,7 +1205,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-03-16T05:30:05Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
                 "stars": 792,
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T16:53:40Z",
+                "last_commit": "2026-10-27T06:54:16Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2404,7 +2404,7 @@
                 "language": "TypeScript",
                 "license": "BlueOak-1.0.0",
                 "last_commit": "2026-05-15T19:38:06Z",
-                "open_issues": 11,
+                "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
                 "stars": 5856,
@@ -2689,7 +2689,7 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-10-21T19:19:54Z",
+                "last_commit": "2026-10-26T19:48:57Z",
                 "open_issues": 79,
                 "owner": "npm",
                 "repo": "node-semver",
@@ -2765,7 +2765,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8711,
+                "stars": 8710,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2973,10 +2973,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-16T13:01:49Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27114,
+                "stars": 27115,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 8,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15344,
+                "stars": 15343,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3015,7 +3015,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-12T06:25:53Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "broofa",
                 "repo": "mime",
                 "stars": 2359,
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67272,
+            "stars": 67284,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:10:58.341Z",
+    "last_updated": "2026-10-27T13:09:06.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",

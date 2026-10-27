@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,981 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,442 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -39,7 +39,7 @@
 ### String
 
 * [node-slug](https://github.com/dodo/node-slug) ⭐ 1,068 | 🐛 39 | 🌐 CoffeeScript | 📅 2019-04-05 - slugifies even utf-8 chars.
-* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 499 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Strip ANSI escape codes.
+* [strip-ansi](https://github.com/chalk/strip-ansi) ⭐ 498 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) ⭐ 492 | 🐛 2 | 🌐 TypeScript | 📅 2022-10-04 - An implementation of PHP's strip\_tags in Node.js.
 * [decamelize](https://github.com/sindresorhus/decamelize) ⭐ 245 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
 * [pad-left](https://github.com/jonschlinkert/pad-left) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-17 - Left pad a string with zeros or a specified string.
@@ -73,7 +73,7 @@
 ### Object
 
 * [deep-object-diff](https://github.com/mattphillips/deep-object-diff) ⭐ 1,140 | 🐛 35 | 🌐 JavaScript | 📅 2024-03-04 - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
-* [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 792 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-16 - Node's assert.deepEqual() algorithm as a standalone module.
+* [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 792 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16 - Node's assert.deepEqual() algorithm as a standalone module.
 * [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 325 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 307 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 275 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 283 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-25 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-27 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -142,7 +142,7 @@
 
 ### File System
 
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,856 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,856 | 🐛 9 | 🌐 TypeScript | 📅 2026-05-15 - A deep deletion module for node (like rm -rf).
 * [tmp](https://github.com/raszi/node-tmp) ⭐ 775 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-27 - Temporary file and directory creator for node.js.
 * [file-size](https://github.com/Nijikokun/file-size) ⭐ 232 | 🐛 1 | 🌐 JavaScript | 📅 2020-01-22 - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) ⭐ 170 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-12 - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
@@ -162,13 +162,13 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,475 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-21 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,475 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-26 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
 ### CLI
 
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-05 - Glob functionality for node.js.
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,710 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-05 - Glob functionality for node.js.
 * [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 181 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 167 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 145 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
@@ -186,9 +186,9 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,114 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,344 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-23 - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,359 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 - Comprehensive MIME type mapping API based on mime-db module.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,115 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,343 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-23 - Generate RFC-compliant UUIDs in JavaScript.
+* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,359 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-12 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 * [not-defined](https://github.com/fibo/not-defined) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,272 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,284 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,752 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
