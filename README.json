@@ -488,7 +488,7 @@
                 "open_issues": 39,
                 "owner": "dodo",
                 "repo": "node-slug",
-                "stars": 1068,
+                "stars": 1067,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5369,
+                "stars": 5371,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -1003,7 +1003,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pretty-ms",
-                "stars": 1218,
+                "stars": 1219,
                 "topics": [
                   "humanize",
                   "milliseconds",
@@ -2294,7 +2294,7 @@
                 "open_issues": 2,
                 "owner": "then",
                 "repo": "is-promise",
-                "stars": 283,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2570,7 +2570,7 @@
                 "open_issues": 0,
                 "owner": "styfle",
                 "repo": "copee",
-                "stars": 154,
+                "stars": 153,
                 "topics": [
                   "browser-api",
                   "clipboard",
@@ -2690,7 +2690,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-10-26T19:48:57Z",
-                "open_issues": 79,
+                "open_issues": 78,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5475,
@@ -2761,11 +2761,11 @@
                 "id": 357681,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T19:02:32Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-28T04:06:22Z",
+                "open_issues": 0,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8710,
+                "stars": 8709,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27115,
+                "stars": 27116,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 8,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15343,
+                "stars": 15346,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3014,8 +3014,8 @@
                 "id": 534940,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T06:25:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-27T14:11:30Z",
+                "open_issues": 0,
                 "owner": "broofa",
                 "repo": "mime",
                 "stars": 2359,
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67284,
+            "stars": 67290,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:09:06.216Z",
+    "last_updated": "2026-10-28T13:58:40.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
