@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,209 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,787 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -20,7 +20,7 @@
 ### Array
 
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) ⭐ 117 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-05 - Efficiently remove an element from an unordered array without doing a splice.
-* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 74 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 - Fast cartesian product.
+* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) ⭐ 74 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30 - Fast cartesian product.
 * [group-array](https://github.com/doowb/group-array) ⭐ 65 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-12 - Group array of objects into lists.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) ⭐ 58 | 🐛 6 | 🌐 JavaScript | 📅 2021-12-30 - Recursively flatten an array or arrays.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2022-01-04 - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
@@ -97,7 +97,7 @@
 
 ### Function
 
-* [mem](https://github.com/sindresorhus/mem) ⭐ 1,166 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-18 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+* [mem](https://github.com/sindresorhus/mem) ⭐ 1,167 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-18 - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce](https://github.com/niksy/throttle-debounce) ⭐ 1,044 | 🐛 7 | 🌐 JavaScript | 📅 2024-06-24 - Throttle/debounce your functions.
 * [curry](https://github.com/dominictarr/curry) ⚠️ Archived - A curry function without anything too clever.
 * [once](https://github.com/isaacs/once) ⭐ 223 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-25 - Run a function exactly one time.
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,113 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,344 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-23 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,116 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,345 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-23 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,358 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,8 +202,8 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,308 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,751 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,320 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,752 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

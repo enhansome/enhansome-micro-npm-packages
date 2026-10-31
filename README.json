@@ -97,7 +97,7 @@
                 "id": 188844132,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T15:04:05Z",
+                "last_commit": "2026-10-30T19:16:20Z",
                 "open_issues": 0,
                 "owner": "ehmicky",
                 "repo": "fast-cartesian",
@@ -1696,7 +1696,7 @@
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "memoize",
-                "stars": 1166,
+                "stars": 1167,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27113,
+                "stars": 27116,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 8,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15344,
+                "stars": 15345,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67308,
+            "stars": 67320,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4751,
+            "stars": 4752,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:03:37.670Z",
+    "last_updated": "2026-10-31T13:35:59.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
