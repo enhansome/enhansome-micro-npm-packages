@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-10-26T19:48:57Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5476,
+                "stars": 5477,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27116,
+                "stars": 27118,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67320,
+            "stars": 67329,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4752,
+            "stars": 4753,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:35:59.600Z",
+    "last_updated": "2026-11-01T14:14:25.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
