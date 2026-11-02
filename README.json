@@ -488,7 +488,7 @@
                 "open_issues": 39,
                 "owner": "dodo",
                 "repo": "node-slug",
-                "stars": 1066,
+                "stars": 1064,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2566,7 +2566,7 @@
                 "id": 39547867,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:11:23Z",
+                "last_commit": "2026-11-02T14:33:44Z",
                 "open_issues": 0,
                 "owner": "styfle",
                 "repo": "copee",
@@ -2689,11 +2689,11 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-10-26T19:48:57Z",
+                "last_commit": "2026-11-02T16:59:51Z",
                 "open_issues": 82,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5477,
+                "stars": 5476,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2762,7 +2762,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-28T14:16:28Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "isaacs",
                 "repo": "node-glob",
                 "stars": 8707,
@@ -2993,11 +2993,11 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T03:48:04Z",
+                "last_commit": "2026-11-01T16:11:41Z",
                 "open_issues": 8,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15345,
+                "stars": 15344,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67329,
+            "stars": 67345,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4753,
+            "stars": 4754,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:14:25.650Z",
+    "last_updated": "2026-11-02T16:59:58.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 5,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4621,
+      "stars": 4622,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
