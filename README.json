@@ -949,7 +949,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5369,
+                "stars": 5368,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -1181,7 +1181,7 @@
                 "open_issues": 35,
                 "owner": "mattphillips",
                 "repo": "deep-object-diff",
-                "stars": 1139,
+                "stars": 1138,
                 "topics": [
                   "array",
                   "deep",
@@ -2690,7 +2690,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-11-02T19:25:41Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "npm",
                 "repo": "node-semver",
                 "stars": 5474,
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27121,
+                "stars": 27124,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 8,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15344,
+                "stars": 15345,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67380,
+            "stars": 67386,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:21:59.107Z",
+    "last_updated": "2026-11-05T15:24:52.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
