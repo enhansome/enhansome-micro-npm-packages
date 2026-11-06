@@ -2,11 +2,11 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,498 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,187 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
-* [Module best practices](https://github.com/mattdesl/module-best-practices) ⭐ 1,542 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-30
+* [Module best practices](https://github.com/mattdesl/module-best-practices) ⭐ 1,541 | 🐛 7 | 🌐 JavaScript | 📅 2018-03-30
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10) ⭐ 145 | 🐛 155 | 📅 2021-01-24
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
@@ -73,7 +73,7 @@
 ### Object
 
 * [deep-object-diff](https://github.com/mattphillips/deep-object-diff) ⭐ 1,138 | 🐛 35 | 🌐 JavaScript | 📅 2024-03-04 - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
-* [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 792 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16 - Node's assert.deepEqual() algorithm as a standalone module.
+* [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 792 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-05 - Node's assert.deepEqual() algorithm as a standalone module.
 * [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 325 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 307 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 275 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
@@ -109,7 +109,7 @@
 ### Math
 
 * [is-odd](https://github.com/jonschlinkert/is-odd) ⚠️ Archived - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
-* [is-number](https://github.com/jonschlinkert/is-number) ⭐ 287 | 🐛 17 | 🌐 JavaScript | 📅 2022-09-15 - Returns `true` if the value is a number.
+* [is-number](https://github.com/jonschlinkert/is-number) ⭐ 288 | 🐛 17 | 🌐 JavaScript | 📅 2022-09-15 - Returns `true` if the value is a number.
 * [is-even](https://github.com/jonschlinkert/is-even) ⚠️ Archived - A good way to tell if a number is even or not (avoids type issues). Uses `is-odd` and `is-number` under the hood.
 * [easy-math.js](https://github.com/kingzez/easy-math.js) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2020-08-10 - A tiny easy math library including addition, multiplication, subtraction, and division.
 * [my-prime](https://github.com/jinnatul/my-prime) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-09 - A good way to tell if a number is prime or not.
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-04 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-05 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -162,13 +162,13 @@
 
 ### Semver
 
-* [semver](https://github.com/npm/node-semver) ⭐ 5,474 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-02 - The semantic version parser used by npm.
+* [semver](https://github.com/npm/node-semver) ⭐ 5,473 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-05 - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-20 - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-29 - Find minimum in an array of version that satisfies a semver range.
 
 ### CLI
 
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,707 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 - Glob functionality for node.js.
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,708 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - Glob functionality for node.js.
 * [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 181 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 167 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 145 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
@@ -186,7 +186,7 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,124 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,123 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,345 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-01 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,357 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,386 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,395 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,754 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

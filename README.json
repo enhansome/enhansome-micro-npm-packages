@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "mattdesl",
             "repo": "module-best-practices",
-            "stars": 1542,
+            "stars": 1541,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1204,8 +1204,8 @@
                 "id": 3413682,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-03-16T05:30:05Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-05T21:24:40Z",
+                "open_issues": 4,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
                 "stars": 792,
@@ -1881,7 +1881,7 @@
                 "open_issues": 17,
                 "owner": "jonschlinkert",
                 "repo": "is-number",
-                "stars": 287,
+                "stars": 288,
                 "topics": [
                   "float",
                   "integer",
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T14:51:24Z",
+                "last_commit": "2026-11-05T18:35:30Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2689,11 +2689,11 @@
                 "id": 1357199,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-11-02T19:25:41Z",
-                "open_issues": 80,
+                "last_commit": "2026-11-05T19:55:36Z",
+                "open_issues": 81,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5474,
+                "stars": 5473,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2761,11 +2761,11 @@
                 "id": 357681,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T14:16:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-06T03:52:18Z",
+                "open_issues": 0,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8707,
+                "stars": 8708,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2972,11 +2972,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T13:01:49Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-05T20:34:00Z",
+                "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27124,
+                "stars": 27123,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67386,
+            "stars": 67395,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T15:24:52.311Z",
+    "last_updated": "2026-11-06T14:57:55.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
