@@ -945,8 +945,8 @@
                 "id": 61765411,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T04:13:27Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-08T14:43:03Z",
+                "open_issues": 10,
                 "owner": "hustcc",
                 "repo": "timeago.js",
                 "stars": 5367,
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-11-05T19:55:36Z",
-                "open_issues": 84,
+                "open_issues": 83,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5472,
+                "stars": 5473,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27126,
+                "stars": 27128,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67417,
+            "stars": 67425,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4755,
+            "stars": 4756,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:15:33.101Z",
+    "last_updated": "2026-11-09T17:25:28.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 5,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4622,
+      "stars": 4623,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
