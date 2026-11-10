@@ -530,7 +530,7 @@
                 "open_issues": 2,
                 "owner": "ericnorris",
                 "repo": "striptags",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "html",
                   "node",
@@ -949,7 +949,7 @@
                 "open_issues": 10,
                 "owner": "hustcc",
                 "repo": "timeago.js",
-                "stars": 5367,
+                "stars": 5368,
                 "topics": [
                   "date-format",
                   "datetime",
@@ -978,7 +978,7 @@
                 "open_issues": 8,
                 "owner": "taylorhakes",
                 "repo": "fecha",
-                "stars": 2065,
+                "stars": 2066,
                 "topics": [
                   "date",
                   "javascript",
@@ -1208,7 +1208,7 @@
                 "open_issues": 5,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "assert",
                   "deepequal",
@@ -1259,7 +1259,7 @@
                 "open_issues": 2,
                 "owner": "jonschlinkert",
                 "repo": "get-value",
-                "stars": 307,
+                "stars": 308,
                 "topics": [
                   "deep",
                   "deep-property",
@@ -2976,7 +2976,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27128,
+                "stars": 27130,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 8,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15345,
+                "stars": 15346,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67425,
+            "stars": 67433,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:25:28.726Z",
+    "last_updated": "2026-11-10T15:32:02.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
