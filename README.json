@@ -530,7 +530,7 @@
                 "open_issues": 2,
                 "owner": "ericnorris",
                 "repo": "striptags",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "html",
                   "node",
@@ -945,8 +945,8 @@
                 "id": 61765411,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T14:43:03Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-12T06:16:30Z",
+                "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "timeago.js",
                 "stars": 5368,
@@ -1003,7 +1003,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pretty-ms",
-                "stars": 1220,
+                "stars": 1219,
                 "topics": [
                   "humanize",
                   "milliseconds",
@@ -1205,7 +1205,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T21:24:40Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
                 "stars": 793,
@@ -1738,7 +1738,7 @@
                 "open_issues": 14,
                 "owner": "dominictarr",
                 "repo": "curry",
-                "stars": 313,
+                "stars": 312,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T18:56:53Z",
+                "last_commit": "2026-11-11T17:12:16Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2407,7 +2407,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5857,
+                "stars": 5856,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2428,7 +2428,7 @@
                 "open_issues": 11,
                 "owner": "raszi",
                 "repo": "node-tmp",
-                "stars": 773,
+                "stars": 774,
                 "topics": [
                   "library",
                   "nodejs",
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-11-05T19:55:36Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5473,
+                "stars": 5474,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2761,7 +2761,7 @@
                 "id": 357681,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T03:52:18Z",
+                "last_commit": "2026-11-12T12:04:09Z",
                 "open_issues": 0,
                 "owner": "isaacs",
                 "repo": "node-glob",
@@ -2973,7 +2973,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T20:34:00Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
                 "stars": 27132,
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67449,
+            "stars": 67474,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4757,
+            "stars": 4758,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:06:42.654Z",
+    "last_updated": "2026-11-12T15:56:16.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
