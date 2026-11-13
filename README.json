@@ -2407,7 +2407,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5856,
+                "stars": 5857,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2976,7 +2976,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27132,
+                "stars": 27129,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2994,7 +2994,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T16:11:41Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15346,
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67474,
+            "stars": 67487,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:56:16.802Z",
+    "last_updated": "2026-11-13T15:18:52.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 5,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4624,
+      "stars": 4623,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
