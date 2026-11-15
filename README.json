@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -557,7 +557,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "decamelize",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pretty-ms",
-                "stars": 1219,
+                "stars": 1220,
                 "topics": [
                   "humanize",
                   "milliseconds",
@@ -1055,7 +1055,7 @@
                 "open_issues": 8,
                 "owner": "jonschlinkert",
                 "repo": "time-stamp",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "date",
                   "datetime",
@@ -1208,7 +1208,7 @@
                 "open_issues": 6,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
-                "stars": 793,
+                "stars": 794,
                 "topics": [
                   "assert",
                   "deepequal",
@@ -1759,7 +1759,7 @@
                 "open_issues": 4,
                 "owner": "isaacs",
                 "repo": "once",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1881,7 +1881,7 @@
                 "open_issues": 17,
                 "owner": "jonschlinkert",
                 "repo": "is-number",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "float",
                   "integer",
@@ -2094,7 +2094,7 @@
                 "open_issues": 19,
                 "owner": "max-mapper",
                 "repo": "concat-stream",
-                "stars": 575,
+                "stars": 576,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2136,7 +2136,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-stream",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2269,7 +2269,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pify",
-                "stars": 1501,
+                "stars": 1502,
                 "topics": [
                   "promise-utilities",
                   "promises",
@@ -2407,7 +2407,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5857,
+                "stars": 5858,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2428,7 +2428,7 @@
                 "open_issues": 11,
                 "owner": "raszi",
                 "repo": "node-tmp",
-                "stars": 774,
+                "stars": 775,
                 "topics": [
                   "library",
                   "nodejs",
@@ -2693,7 +2693,7 @@
                 "open_issues": 85,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5474,
+                "stars": 5475,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2765,7 +2765,7 @@
                 "open_issues": 0,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8710,
+                "stars": 8711,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2816,7 +2816,7 @@
                 "open_issues": 0,
                 "owner": "npm",
                 "repo": "abbrev-js",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2997,7 +2997,7 @@
                 "open_issues": 9,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15345,
+                "stars": 15346,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3018,7 +3018,7 @@
                 "open_issues": 1,
                 "owner": "broofa",
                 "repo": "mime",
-                "stars": 2358,
+                "stars": 2359,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67502,
+            "stars": 67516,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:05:18.278Z",
+    "last_updated": "2026-11-15T14:42:07.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
@@ -3246,7 +3246,7 @@
       "open_issues": 5,
       "owner": "parro-it",
       "repo": "awesome-micro-npm-packages",
-      "stars": 4623,
+      "stars": 4624,
       "topics": []
     },
     "original_repository_sha": "525470df33d1d315a6d8f0441f51c6d414dbf80b",
