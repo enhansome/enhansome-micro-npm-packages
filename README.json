@@ -143,7 +143,7 @@
                 "open_issues": 1,
                 "owner": "doowb",
                 "repo": "group-array",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 500,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -530,7 +530,7 @@
                 "open_issues": 2,
                 "owner": "ericnorris",
                 "repo": "striptags",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "html",
                   "node",
@@ -978,7 +978,7 @@
                 "open_issues": 8,
                 "owner": "taylorhakes",
                 "repo": "fecha",
-                "stars": 2066,
+                "stars": 2065,
                 "topics": [
                   "date",
                   "javascript",
@@ -1003,7 +1003,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pretty-ms",
-                "stars": 1220,
+                "stars": 1219,
                 "topics": [
                   "humanize",
                   "milliseconds",
@@ -1208,7 +1208,7 @@
                 "open_issues": 6,
                 "owner": "inspect-js",
                 "repo": "node-deep-equal",
-                "stars": 794,
+                "stars": 793,
                 "topics": [
                   "assert",
                   "deepequal",
@@ -1259,7 +1259,7 @@
                 "open_issues": 2,
                 "owner": "jonschlinkert",
                 "repo": "get-value",
-                "stars": 308,
+                "stars": 307,
                 "topics": [
                   "deep",
                   "deep-property",
@@ -1696,7 +1696,7 @@
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "memoize",
-                "stars": 1168,
+                "stars": 1167,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2294,7 +2294,7 @@
                 "open_issues": 2,
                 "owner": "then",
                 "repo": "is-promise",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T01:14:52Z",
+                "last_commit": "2026-11-20T11:37:12Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2762,10 +2762,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-12T12:04:09Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "isaacs",
                 "repo": "node-glob",
-                "stars": 8711,
+                "stars": 8712,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 10,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15345,
+                "stars": 15343,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3015,10 +3015,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-30T05:00:41Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "broofa",
                 "repo": "mime",
-                "stars": 2359,
+                "stars": 2358,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67561,
+            "stars": 67574,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:30:13.220Z",
+    "last_updated": "2026-11-20T16:04:41.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
