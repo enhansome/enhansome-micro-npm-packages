@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,852 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,333 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -133,7 +133,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify a callback-style function.
 * [is-promise](https://github.com/then/is-promise) ⭐ 283 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Test whether an object looks like a promises-a+ promise.
-* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-20 - Resolves a promise after a specified delay.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) ⭐ 89 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-21 - Resolves a promise after a specified delay.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-12 - Like `Promise.all` but for object properties.
 
 ### Data Structure
@@ -168,7 +168,7 @@
 
 ### CLI
 
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,712 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-12 - Glob functionality for node.js.
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,712 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - Glob functionality for node.js.
 * [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 181 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 168 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 145 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
@@ -188,7 +188,7 @@
 
 * [nanoid](https://github.com/ai/nanoid) ⭐ 27,139 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,343 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,358 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-30 - Comprehensive MIME type mapping API based on mime-db module.
+* [node-mime](https://github.com/broofa/node-mime) ⭐ 2,358 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
 * [not-defined](https://github.com/fibo/not-defined) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,574 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,587 | 🐛 25 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,762 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

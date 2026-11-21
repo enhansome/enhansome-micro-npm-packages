@@ -2311,7 +2311,7 @@
                 "id": 41221963,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T11:37:12Z",
+                "last_commit": "2026-11-21T05:37:51Z",
                 "open_issues": 11,
                 "owner": "brummelte",
                 "repo": "sleep-promise",
@@ -2761,7 +2761,7 @@
                 "id": 357681,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T12:04:09Z",
+                "last_commit": "2026-11-20T23:13:29Z",
                 "open_issues": 1,
                 "owner": "isaacs",
                 "repo": "node-glob",
@@ -3015,7 +3015,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-30T05:00:41Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "broofa",
                 "repo": "mime",
                 "stars": 2358,
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67574,
+            "stars": 67587,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:04:41.272Z",
+    "last_updated": "2026-11-21T15:17:53.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
