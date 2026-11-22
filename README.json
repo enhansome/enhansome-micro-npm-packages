@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1238,7 +1238,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "stringify-object",
-                "stars": 325,
+                "stars": 326,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -1759,7 +1759,7 @@
                 "open_issues": 4,
                 "owner": "isaacs",
                 "repo": "once",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2294,7 +2294,7 @@
                 "open_issues": 2,
                 "owner": "then",
                 "repo": "is-promise",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2407,7 +2407,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5858,
+                "stars": 5859,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-11-05T19:55:36Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5475,
+                "stars": 5476,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27139,
+                "stars": 27138,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67587,
+            "stars": 67603,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3215,7 +3215,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4762,
+            "stars": 4764,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:17:53.454Z",
+    "last_updated": "2026-11-22T15:14:30.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
