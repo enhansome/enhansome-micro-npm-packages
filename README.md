@@ -2,7 +2,7 @@
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,204 | 🐛 103 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,708 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 ## Articles
 
@@ -73,7 +73,7 @@
 ### Object
 
 * [deep-object-diff](https://github.com/mattphillips/deep-object-diff) ⭐ 1,137 | 🐛 35 | 🌐 JavaScript | 📅 2024-03-04 - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
-* [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 793 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-05 - Node's assert.deepEqual() algorithm as a standalone module.
+* [deep-equal](https://github.com/substack/node-deep-equal) ⭐ 793 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-24 - Node's assert.deepEqual() algorithm as a standalone module.
 * [stringify-object](https://github.com/yeoman/stringify-object) ⭐ 326 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [get-value](https://github.com/jonschlinkert/get-value) ⭐ 307 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-14 - Use property paths (a.b.c) to get a nested value from an object.
 * [set-value](https://github.com/jonschlinkert/set-value) ⭐ 275 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-08 - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
@@ -118,7 +118,7 @@
 ### Stream
 
 * [JSONStream](https://github.com/dominictarr/JSONStream) ⚠️ Archived - streaming JSON.parse and stringify
-* [through2](https://github.com/rvagg/through2) ⭐ 1,906 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-23 - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
+* [through2](https://github.com/rvagg/through2) ⭐ 1,906 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25 - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [pump](https://github.com/mafintosh/pump) ⭐ 917 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-28 - pipe streams together and close all of them if one of them closes.
 * [concat-stream](https://github.com/maxogden/concat-stream) ⭐ 576 | 🐛 19 | 🌐 JavaScript | 📅 2021-06-23 - writable stream that concatenates strings or data and calls a callback with the result.
 * [split](https://github.com/dominictarr/split) ⚠️ Archived - Break up a stream and reassemble it so that each line is a chunk.
@@ -168,7 +168,7 @@
 
 ### CLI
 
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,710 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - Glob functionality for node.js.
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,710 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-25 - Glob functionality for node.js.
 * [png-to-ico](https://github.com/steambap/png-to-ico) ⭐ 181 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-06 - Convert png to windows ico format.
 * [abbrev](https://github.com/isaacs/abbrev-js) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-18 - Calculate the set of unique abbreviations for a given set of strings.
 * [username](https://github.com/sindresorhus/username) ⭐ 145 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the username of the current user.
@@ -186,8 +186,8 @@
 
 ### Other
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,141 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,345 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 - Generate RFC-compliant UUIDs in JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,142 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-25 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,346 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) ⭐ 2,358 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Comprehensive MIME type mapping API based on mime-db module.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) ⭐ 22 | 🐛 9 | 🌐 JavaScript | 📅 2022-11-10 - Check if a string represent a fully qualified domain name.
 * [shurley](https://github.com/BrunoBernardino/shurley) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Parses URLs from user input (with potential typos in protocols, bad copy+paste, etc.) and returns a proper URL.
@@ -202,7 +202,7 @@
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,626 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,633 | 🐛 24 | 📅 2026-09-02 - A curated list of delightful Node.js packages and resources.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,764 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
@@ -230,4 +230,4 @@ To the extent possible under law, [Andrea Parodi](https://github.com/parro-it) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
