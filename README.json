@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "chalk",
                 "repo": "strip-ansi",
-                "stars": 500,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -975,7 +975,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-01-05T05:12:00Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "taylorhakes",
                 "repo": "fecha",
                 "stars": 2064,
@@ -1696,7 +1696,7 @@
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "memoize",
-                "stars": 1167,
+                "stars": 1169,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2052,7 +2052,7 @@
                 "open_issues": 0,
                 "owner": "rvagg",
                 "repo": "through2",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 20,
                 "owner": "mafintosh",
                 "repo": "pump",
-                "stars": 917,
+                "stars": 916,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2094,7 +2094,7 @@
                 "open_issues": 19,
                 "owner": "max-mapper",
                 "repo": "concat-stream",
-                "stars": 576,
+                "stars": 575,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2269,7 +2269,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pify",
-                "stars": 1502,
+                "stars": 1501,
                 "topics": [
                   "promise-utilities",
                   "promises",
@@ -2407,7 +2407,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5859,
+                "stars": 5860,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -2690,10 +2690,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-11-05T19:55:36Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "npm",
                 "repo": "node-semver",
-                "stars": 5479,
+                "stars": 5480,
                 "topics": [
                   "npm-cli"
                 ]
@@ -2976,7 +2976,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27146,
+                "stars": 27148,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:40.217Z"
@@ -3187,7 +3187,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67643,
+            "stars": 67656,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:40:36.039Z",
+    "last_updated": "2026-11-27T17:25:09.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of small, focused npm packages.",
